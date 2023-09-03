@@ -1,0 +1,4245 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+	<Document>
+		<Style id="SessionStyle6">
+			<LineStyle>
+				<color>ff8b560b</color>
+				<width>4.000000</width>
+			</LineStyle>
+		</Style>
+		<Style id="MarkerStyleANTPAL">
+			<IconStyle>
+				<Icon>
+					<href>http://www.wildlifeacoustics.com/echo-meter-touch/gps/marker_ANTPAL.png</href>
+				</Icon>
+				<hotSpot x="0.50" y="0.00" xunits="fraction" yunits="fraction" />
+			</IconStyle>
+			<LabelStyle>
+				<scale>0.000000</scale>
+			</LabelStyle>
+		</Style>
+		<Style id="MarkerStyleCORRAF">
+			<IconStyle>
+				<Icon>
+					<href>http://www.wildlifeacoustics.com/echo-meter-touch/gps/marker_CORRAF.png</href>
+				</Icon>
+				<hotSpot x="0.50" y="0.00" xunits="fraction" yunits="fraction" />
+			</IconStyle>
+			<LabelStyle>
+				<scale>0.000000</scale>
+			</LabelStyle>
+		</Style>
+		<Style id="MarkerStyleCORTOW">
+			<IconStyle>
+				<Icon>
+					<href>http://www.wildlifeacoustics.com/echo-meter-touch/gps/marker_CORTOW.png</href>
+				</Icon>
+				<hotSpot x="0.50" y="0.00" xunits="fraction" yunits="fraction" />
+			</IconStyle>
+			<LabelStyle>
+				<scale>0.000000</scale>
+			</LabelStyle>
+		</Style>
+		<Style id="MarkerStyleEPTFUS">
+			<IconStyle>
+				<Icon>
+					<href>http://www.wildlifeacoustics.com/echo-meter-touch/gps/marker_EPTFUS.png</href>
+				</Icon>
+				<hotSpot x="0.50" y="0.00" xunits="fraction" yunits="fraction" />
+			</IconStyle>
+			<LabelStyle>
+				<scale>0.000000</scale>
+			</LabelStyle>
+		</Style>
+		<Style id="MarkerStyleEUDMAC">
+			<IconStyle>
+				<Icon>
+					<href>http://www.wildlifeacoustics.com/echo-meter-touch/gps/marker_EUDMAC.png</href>
+				</Icon>
+				<hotSpot x="0.50" y="0.00" xunits="fraction" yunits="fraction" />
+			</IconStyle>
+			<LabelStyle>
+				<scale>0.000000</scale>
+			</LabelStyle>
+		</Style>
+		<Style id="MarkerStyleEUMFLO">
+			<IconStyle>
+				<Icon>
+					<href>http://www.wildlifeacoustics.com/echo-meter-touch/gps/marker_EUMFLO.png</href>
+				</Icon>
+				<hotSpot x="0.50" y="0.00" xunits="fraction" yunits="fraction" />
+			</IconStyle>
+			<LabelStyle>
+				<scale>0.000000</scale>
+			</LabelStyle>
+		</Style>
+		<Style id="MarkerStyleEUMPER">
+			<IconStyle>
+				<Icon>
+					<href>http://www.wildlifeacoustics.com/echo-meter-touch/gps/marker_EUMPER.png</href>
+				</Icon>
+				<hotSpot x="0.50" y="0.00" xunits="fraction" yunits="fraction" />
+			</IconStyle>
+			<LabelStyle>
+				<scale>0.000000</scale>
+			</LabelStyle>
+		</Style>
+		<Style id="MarkerStyleEUMUND">
+			<IconStyle>
+				<Icon>
+					<href>http://www.wildlifeacoustics.com/echo-meter-touch/gps/marker_EUMUND.png</href>
+				</Icon>
+				<hotSpot x="0.50" y="0.00" xunits="fraction" yunits="fraction" />
+			</IconStyle>
+			<LabelStyle>
+				<scale>0.000000</scale>
+			</LabelStyle>
+		</Style>
+		<Style id="MarkerStyleIDIPHY">
+			<IconStyle>
+				<Icon>
+					<href>http://www.wildlifeacoustics.com/echo-meter-touch/gps/marker_IDIPHY.png</href>
+				</Icon>
+				<hotSpot x="0.50" y="0.00" xunits="fraction" yunits="fraction" />
+			</IconStyle>
+			<LabelStyle>
+				<scale>0.000000</scale>
+			</LabelStyle>
+		</Style>
+		<Style id="MarkerStyleLASBLO">
+			<IconStyle>
+				<Icon>
+					<href>http://www.wildlifeacoustics.com/echo-meter-touch/gps/marker_LASBLO.png</href>
+				</Icon>
+				<hotSpot x="0.50" y="0.00" xunits="fraction" yunits="fraction" />
+			</IconStyle>
+			<LabelStyle>
+				<scale>0.000000</scale>
+			</LabelStyle>
+		</Style>
+		<Style id="MarkerStyleLASBOR">
+			<IconStyle>
+				<Icon>
+					<href>http://www.wildlifeacoustics.com/echo-meter-touch/gps/marker_LASBOR.png</href>
+				</Icon>
+				<hotSpot x="0.50" y="0.00" xunits="fraction" yunits="fraction" />
+			</IconStyle>
+			<LabelStyle>
+				<scale>0.000000</scale>
+			</LabelStyle>
+		</Style>
+		<Style id="MarkerStyleLASCIN">
+			<IconStyle>
+				<Icon>
+					<href>http://www.wildlifeacoustics.com/echo-meter-touch/gps/marker_LASCIN.png</href>
+				</Icon>
+				<hotSpot x="0.50" y="0.00" xunits="fraction" yunits="fraction" />
+			</IconStyle>
+			<LabelStyle>
+				<scale>0.000000</scale>
+			</LabelStyle>
+		</Style>
+		<Style id="MarkerStyleLASEGA">
+			<IconStyle>
+				<Icon>
+					<href>http://www.wildlifeacoustics.com/echo-meter-touch/gps/marker_LASEGA.png</href>
+				</Icon>
+				<hotSpot x="0.50" y="0.00" xunits="fraction" yunits="fraction" />
+			</IconStyle>
+			<LabelStyle>
+				<scale>0.000000</scale>
+			</LabelStyle>
+		</Style>
+		<Style id="MarkerStyleLASINS">
+			<IconStyle>
+				<Icon>
+					<href>http://www.wildlifeacoustics.com/echo-meter-touch/gps/marker_LASINS.png</href>
+				</Icon>
+				<hotSpot x="0.50" y="0.00" xunits="fraction" yunits="fraction" />
+			</IconStyle>
+			<LabelStyle>
+				<scale>0.000000</scale>
+			</LabelStyle>
+		</Style>
+		<Style id="MarkerStyleLASINT">
+			<IconStyle>
+				<Icon>
+					<href>http://www.wildlifeacoustics.com/echo-meter-touch/gps/marker_LASINT.png</href>
+				</Icon>
+				<hotSpot x="0.50" y="0.00" xunits="fraction" yunits="fraction" />
+			</IconStyle>
+			<LabelStyle>
+				<scale>0.000000</scale>
+			</LabelStyle>
+		</Style>
+		<Style id="MarkerStyleLASNOC">
+			<IconStyle>
+				<Icon>
+					<href>http://www.wildlifeacoustics.com/echo-meter-touch/gps/marker_LASNOC.png</href>
+				</Icon>
+				<hotSpot x="0.50" y="0.00" xunits="fraction" yunits="fraction" />
+			</IconStyle>
+			<LabelStyle>
+				<scale>0.000000</scale>
+			</LabelStyle>
+		</Style>
+		<Style id="MarkerStyleLASSEM">
+			<IconStyle>
+				<Icon>
+					<href>http://www.wildlifeacoustics.com/echo-meter-touch/gps/marker_LASSEM.png</href>
+				</Icon>
+				<hotSpot x="0.50" y="0.00" xunits="fraction" yunits="fraction" />
+			</IconStyle>
+			<LabelStyle>
+				<scale>0.000000</scale>
+			</LabelStyle>
+		</Style>
+		<Style id="MarkerStyleLASXAN">
+			<IconStyle>
+				<Icon>
+					<href>http://www.wildlifeacoustics.com/echo-meter-touch/gps/marker_LASXAN.png</href>
+				</Icon>
+				<hotSpot x="0.50" y="0.00" xunits="fraction" yunits="fraction" />
+			</IconStyle>
+			<LabelStyle>
+				<scale>0.000000</scale>
+			</LabelStyle>
+		</Style>
+		<Style id="MarkerStyleMACCAL">
+			<IconStyle>
+				<Icon>
+					<href>http://www.wildlifeacoustics.com/echo-meter-touch/gps/marker_MACCAL.png</href>
+				</Icon>
+				<hotSpot x="0.50" y="0.00" xunits="fraction" yunits="fraction" />
+			</IconStyle>
+			<LabelStyle>
+				<scale>0.000000</scale>
+			</LabelStyle>
+		</Style>
+		<Style id="MarkerStyleMOLMOL">
+			<IconStyle>
+				<Icon>
+					<href>http://www.wildlifeacoustics.com/echo-meter-touch/gps/marker_MOLMOL.png</href>
+				</Icon>
+				<hotSpot x="0.50" y="0.00" xunits="fraction" yunits="fraction" />
+			</IconStyle>
+			<LabelStyle>
+				<scale>0.000000</scale>
+			</LabelStyle>
+		</Style>
+		<Style id="MarkerStyleMORMEG">
+			<IconStyle>
+				<Icon>
+					<href>http://www.wildlifeacoustics.com/echo-meter-touch/gps/marker_MORMEG.png</href>
+				</Icon>
+				<hotSpot x="0.50" y="0.00" xunits="fraction" yunits="fraction" />
+			</IconStyle>
+			<LabelStyle>
+				<scale>0.000000</scale>
+			</LabelStyle>
+		</Style>
+		<Style id="MarkerStyleMYOAUR">
+			<IconStyle>
+				<Icon>
+					<href>http://www.wildlifeacoustics.com/echo-meter-touch/gps/marker_MYOAUR.png</href>
+				</Icon>
+				<hotSpot x="0.50" y="0.00" xunits="fraction" yunits="fraction" />
+			</IconStyle>
+			<LabelStyle>
+				<scale>0.000000</scale>
+			</LabelStyle>
+		</Style>
+		<Style id="MarkerStyleMYOAUS">
+			<IconStyle>
+				<Icon>
+					<href>http://www.wildlifeacoustics.com/echo-meter-touch/gps/marker_MYOAUS.png</href>
+				</Icon>
+				<hotSpot x="0.50" y="0.00" xunits="fraction" yunits="fraction" />
+			</IconStyle>
+			<LabelStyle>
+				<scale>0.000000</scale>
+			</LabelStyle>
+		</Style>
+		<Style id="MarkerStyleMYOCAL">
+			<IconStyle>
+				<Icon>
+					<href>http://www.wildlifeacoustics.com/echo-meter-touch/gps/marker_MYOCAL.png</href>
+				</Icon>
+				<hotSpot x="0.50" y="0.00" xunits="fraction" yunits="fraction" />
+			</IconStyle>
+			<LabelStyle>
+				<scale>0.000000</scale>
+			</LabelStyle>
+		</Style>
+		<Style id="MarkerStyleMYOCIL">
+			<IconStyle>
+				<Icon>
+					<href>http://www.wildlifeacoustics.com/echo-meter-touch/gps/marker_MYOCIL.png</href>
+				</Icon>
+				<hotSpot x="0.50" y="0.00" xunits="fraction" yunits="fraction" />
+			</IconStyle>
+			<LabelStyle>
+				<scale>0.000000</scale>
+			</LabelStyle>
+		</Style>
+		<Style id="MarkerStyleMYOEVO">
+			<IconStyle>
+				<Icon>
+					<href>http://www.wildlifeacoustics.com/echo-meter-touch/gps/marker_MYOEVO.png</href>
+				</Icon>
+				<hotSpot x="0.50" y="0.00" xunits="fraction" yunits="fraction" />
+			</IconStyle>
+			<LabelStyle>
+				<scale>0.000000</scale>
+			</LabelStyle>
+		</Style>
+		<Style id="MarkerStyleMYOGRI">
+			<IconStyle>
+				<Icon>
+					<href>http://www.wildlifeacoustics.com/echo-meter-touch/gps/marker_MYOGRI.png</href>
+				</Icon>
+				<hotSpot x="0.50" y="0.00" xunits="fraction" yunits="fraction" />
+			</IconStyle>
+			<LabelStyle>
+				<scale>0.000000</scale>
+			</LabelStyle>
+		</Style>
+		<Style id="MarkerStyleMYOLEI">
+			<IconStyle>
+				<Icon>
+					<href>http://www.wildlifeacoustics.com/echo-meter-touch/gps/marker_MYOLEI.png</href>
+				</Icon>
+				<hotSpot x="0.50" y="0.00" xunits="fraction" yunits="fraction" />
+			</IconStyle>
+			<LabelStyle>
+				<scale>0.000000</scale>
+			</LabelStyle>
+		</Style>
+		<Style id="MarkerStyleMYOLUC">
+			<IconStyle>
+				<Icon>
+					<href>http://www.wildlifeacoustics.com/echo-meter-touch/gps/marker_MYOLUC.png</href>
+				</Icon>
+				<hotSpot x="0.50" y="0.00" xunits="fraction" yunits="fraction" />
+			</IconStyle>
+			<LabelStyle>
+				<scale>0.000000</scale>
+			</LabelStyle>
+		</Style>
+		<Style id="MarkerStyleMYOOCC">
+			<IconStyle>
+				<Icon>
+					<href>http://www.wildlifeacoustics.com/echo-meter-touch/gps/marker_MYOOCC.png</href>
+				</Icon>
+				<hotSpot x="0.50" y="0.00" xunits="fraction" yunits="fraction" />
+			</IconStyle>
+			<LabelStyle>
+				<scale>0.000000</scale>
+			</LabelStyle>
+		</Style>
+		<Style id="MarkerStyleMYOSEP">
+			<IconStyle>
+				<Icon>
+					<href>http://www.wildlifeacoustics.com/echo-meter-touch/gps/marker_MYOSEP.png</href>
+				</Icon>
+				<hotSpot x="0.50" y="0.00" xunits="fraction" yunits="fraction" />
+			</IconStyle>
+			<LabelStyle>
+				<scale>0.000000</scale>
+			</LabelStyle>
+		</Style>
+		<Style id="MarkerStyleMYOSOD">
+			<IconStyle>
+				<Icon>
+					<href>http://www.wildlifeacoustics.com/echo-meter-touch/gps/marker_MYOSOD.png</href>
+				</Icon>
+				<hotSpot x="0.50" y="0.00" xunits="fraction" yunits="fraction" />
+			</IconStyle>
+			<LabelStyle>
+				<scale>0.000000</scale>
+			</LabelStyle>
+		</Style>
+		<Style id="MarkerStyleMYOTHY">
+			<IconStyle>
+				<Icon>
+					<href>http://www.wildlifeacoustics.com/echo-meter-touch/gps/marker_MYOTHY.png</href>
+				</Icon>
+				<hotSpot x="0.50" y="0.00" xunits="fraction" yunits="fraction" />
+			</IconStyle>
+			<LabelStyle>
+				<scale>0.000000</scale>
+			</LabelStyle>
+		</Style>
+		<Style id="MarkerStyleMYOVEL">
+			<IconStyle>
+				<Icon>
+					<href>http://www.wildlifeacoustics.com/echo-meter-touch/gps/marker_MYOVEL.png</href>
+				</Icon>
+				<hotSpot x="0.50" y="0.00" xunits="fraction" yunits="fraction" />
+			</IconStyle>
+			<LabelStyle>
+				<scale>0.000000</scale>
+			</LabelStyle>
+		</Style>
+		<Style id="MarkerStyleMYOVOL">
+			<IconStyle>
+				<Icon>
+					<href>http://www.wildlifeacoustics.com/echo-meter-touch/gps/marker_MYOVOL.png</href>
+				</Icon>
+				<hotSpot x="0.50" y="0.00" xunits="fraction" yunits="fraction" />
+			</IconStyle>
+			<LabelStyle>
+				<scale>0.000000</scale>
+			</LabelStyle>
+		</Style>
+		<Style id="MarkerStyleMYOYUM">
+			<IconStyle>
+				<Icon>
+					<href>http://www.wildlifeacoustics.com/echo-meter-touch/gps/marker_MYOYUM.png</href>
+				</Icon>
+				<hotSpot x="0.50" y="0.00" xunits="fraction" yunits="fraction" />
+			</IconStyle>
+			<LabelStyle>
+				<scale>0.000000</scale>
+			</LabelStyle>
+		</Style>
+		<Style id="MarkerStyleNYCFEM">
+			<IconStyle>
+				<Icon>
+					<href>http://www.wildlifeacoustics.com/echo-meter-touch/gps/marker_NYCFEM.png</href>
+				</Icon>
+				<hotSpot x="0.50" y="0.00" xunits="fraction" yunits="fraction" />
+			</IconStyle>
+			<LabelStyle>
+				<scale>0.000000</scale>
+			</LabelStyle>
+		</Style>
+		<Style id="MarkerStyleNYCHUM">
+			<IconStyle>
+				<Icon>
+					<href>http://www.wildlifeacoustics.com/echo-meter-touch/gps/marker_NYCHUM.png</href>
+				</Icon>
+				<hotSpot x="0.50" y="0.00" xunits="fraction" yunits="fraction" />
+			</IconStyle>
+			<LabelStyle>
+				<scale>0.000000</scale>
+			</LabelStyle>
+		</Style>
+		<Style id="MarkerStyleNYCMAC">
+			<IconStyle>
+				<Icon>
+					<href>http://www.wildlifeacoustics.com/echo-meter-touch/gps/marker_NYCMAC.png</href>
+				</Icon>
+				<hotSpot x="0.50" y="0.00" xunits="fraction" yunits="fraction" />
+			</IconStyle>
+			<LabelStyle>
+				<scale>0.000000</scale>
+			</LabelStyle>
+		</Style>
+		<Style id="MarkerStylePARHES">
+			<IconStyle>
+				<Icon>
+					<href>http://www.wildlifeacoustics.com/echo-meter-touch/gps/marker_PARHES.png</href>
+				</Icon>
+				<hotSpot x="0.50" y="0.00" xunits="fraction" yunits="fraction" />
+			</IconStyle>
+			<LabelStyle>
+				<scale>0.000000</scale>
+			</LabelStyle>
+		</Style>
+		<Style id="MarkerStylePERSUB">
+			<IconStyle>
+				<Icon>
+					<href>http://www.wildlifeacoustics.com/echo-meter-touch/gps/marker_PERSUB.png</href>
+				</Icon>
+				<hotSpot x="0.50" y="0.00" xunits="fraction" yunits="fraction" />
+			</IconStyle>
+			<LabelStyle>
+				<scale>0.000000</scale>
+			</LabelStyle>
+		</Style>
+		<Style id="MarkerStyleTADBRA">
+			<IconStyle>
+				<Icon>
+					<href>http://www.wildlifeacoustics.com/echo-meter-touch/gps/marker_TADBRA.png</href>
+				</Icon>
+				<hotSpot x="0.50" y="0.00" xunits="fraction" yunits="fraction" />
+			</IconStyle>
+			<LabelStyle>
+				<scale>0.000000</scale>
+			</LabelStyle>
+		</Style>
+		<Style id="MarkerStyleBARBAR">
+			<IconStyle>
+				<Icon>
+					<href>http://www.wildlifeacoustics.com/echo-meter-touch/gps/marker_BARBAR.png</href>
+				</Icon>
+				<hotSpot x="0.50" y="0.00" xunits="fraction" yunits="fraction" />
+			</IconStyle>
+			<LabelStyle>
+				<scale>0.000000</scale>
+			</LabelStyle>
+		</Style>
+		<Style id="MarkerStyleEPTISA">
+			<IconStyle>
+				<Icon>
+					<href>http://www.wildlifeacoustics.com/echo-meter-touch/gps/marker_EPTISA.png</href>
+				</Icon>
+				<hotSpot x="0.50" y="0.00" xunits="fraction" yunits="fraction" />
+			</IconStyle>
+			<LabelStyle>
+				<scale>0.000000</scale>
+			</LabelStyle>
+		</Style>
+		<Style id="MarkerStyleEPTNIL">
+			<IconStyle>
+				<Icon>
+					<href>http://www.wildlifeacoustics.com/echo-meter-touch/gps/marker_EPTNIL.png</href>
+				</Icon>
+				<hotSpot x="0.50" y="0.00" xunits="fraction" yunits="fraction" />
+			</IconStyle>
+			<LabelStyle>
+				<scale>0.000000</scale>
+			</LabelStyle>
+		</Style>
+		<Style id="MarkerStyleEPTSER">
+			<IconStyle>
+				<Icon>
+					<href>http://www.wildlifeacoustics.com/echo-meter-touch/gps/marker_EPTSER.png</href>
+				</Icon>
+				<hotSpot x="0.50" y="0.00" xunits="fraction" yunits="fraction" />
+			</IconStyle>
+			<LabelStyle>
+				<scale>0.000000</scale>
+			</LabelStyle>
+		</Style>
+		<Style id="MarkerStyleHYPSAV">
+			<IconStyle>
+				<Icon>
+					<href>http://www.wildlifeacoustics.com/echo-meter-touch/gps/marker_HYPSAV.png</href>
+				</Icon>
+				<hotSpot x="0.50" y="0.00" xunits="fraction" yunits="fraction" />
+			</IconStyle>
+			<LabelStyle>
+				<scale>0.000000</scale>
+			</LabelStyle>
+		</Style>
+		<Style id="MarkerStyleMINSCH">
+			<IconStyle>
+				<Icon>
+					<href>http://www.wildlifeacoustics.com/echo-meter-touch/gps/marker_MINSCH.png</href>
+				</Icon>
+				<hotSpot x="0.50" y="0.00" xunits="fraction" yunits="fraction" />
+			</IconStyle>
+			<LabelStyle>
+				<scale>0.000000</scale>
+			</LabelStyle>
+		</Style>
+		<Style id="MarkerStyleMYOALC">
+			<IconStyle>
+				<Icon>
+					<href>http://www.wildlifeacoustics.com/echo-meter-touch/gps/marker_MYOALC.png</href>
+				</Icon>
+				<hotSpot x="0.50" y="0.00" xunits="fraction" yunits="fraction" />
+			</IconStyle>
+			<LabelStyle>
+				<scale>0.000000</scale>
+			</LabelStyle>
+		</Style>
+		<Style id="MarkerStyleMYOBEC">
+			<IconStyle>
+				<Icon>
+					<href>http://www.wildlifeacoustics.com/echo-meter-touch/gps/marker_MYOBEC.png</href>
+				</Icon>
+				<hotSpot x="0.50" y="0.00" xunits="fraction" yunits="fraction" />
+			</IconStyle>
+			<LabelStyle>
+				<scale>0.000000</scale>
+			</LabelStyle>
+		</Style>
+		<Style id="MarkerStyleMYOBRA">
+			<IconStyle>
+				<Icon>
+					<href>http://www.wildlifeacoustics.com/echo-meter-touch/gps/marker_MYOBRA.png</href>
+				</Icon>
+				<hotSpot x="0.50" y="0.00" xunits="fraction" yunits="fraction" />
+			</IconStyle>
+			<LabelStyle>
+				<scale>0.000000</scale>
+			</LabelStyle>
+		</Style>
+		<Style id="MarkerStyleMYOCAP">
+			<IconStyle>
+				<Icon>
+					<href>http://www.wildlifeacoustics.com/echo-meter-touch/gps/marker_MYOCAP.png</href>
+				</Icon>
+				<hotSpot x="0.50" y="0.00" xunits="fraction" yunits="fraction" />
+			</IconStyle>
+			<LabelStyle>
+				<scale>0.000000</scale>
+			</LabelStyle>
+		</Style>
+		<Style id="MarkerStyleMYODAS">
+			<IconStyle>
+				<Icon>
+					<href>http://www.wildlifeacoustics.com/echo-meter-touch/gps/marker_MYODAS.png</href>
+				</Icon>
+				<hotSpot x="0.50" y="0.00" xunits="fraction" yunits="fraction" />
+			</IconStyle>
+			<LabelStyle>
+				<scale>0.000000</scale>
+			</LabelStyle>
+		</Style>
+		<Style id="MarkerStyleMYODAU">
+			<IconStyle>
+				<Icon>
+					<href>http://www.wildlifeacoustics.com/echo-meter-touch/gps/marker_MYODAU.png</href>
+				</Icon>
+				<hotSpot x="0.50" y="0.00" xunits="fraction" yunits="fraction" />
+			</IconStyle>
+			<LabelStyle>
+				<scale>0.000000</scale>
+			</LabelStyle>
+		</Style>
+		<Style id="MarkerStyleMYOEMA">
+			<IconStyle>
+				<Icon>
+					<href>http://www.wildlifeacoustics.com/echo-meter-touch/gps/marker_MYOEMA.png</href>
+				</Icon>
+				<hotSpot x="0.50" y="0.00" xunits="fraction" yunits="fraction" />
+			</IconStyle>
+			<LabelStyle>
+				<scale>0.000000</scale>
+			</LabelStyle>
+		</Style>
+		<Style id="MarkerStyleMYOESC">
+			<IconStyle>
+				<Icon>
+					<href>http://www.wildlifeacoustics.com/echo-meter-touch/gps/marker_MYOESC.png</href>
+				</Icon>
+				<hotSpot x="0.50" y="0.00" xunits="fraction" yunits="fraction" />
+			</IconStyle>
+			<LabelStyle>
+				<scale>0.000000</scale>
+			</LabelStyle>
+		</Style>
+		<Style id="MarkerStyleMYOMYO">
+			<IconStyle>
+				<Icon>
+					<href>http://www.wildlifeacoustics.com/echo-meter-touch/gps/marker_MYOMYO.png</href>
+				</Icon>
+				<hotSpot x="0.50" y="0.00" xunits="fraction" yunits="fraction" />
+			</IconStyle>
+			<LabelStyle>
+				<scale>0.000000</scale>
+			</LabelStyle>
+		</Style>
+		<Style id="MarkerStyleMYOMYS">
+			<IconStyle>
+				<Icon>
+					<href>http://www.wildlifeacoustics.com/echo-meter-touch/gps/marker_MYOMYS.png</href>
+				</Icon>
+				<hotSpot x="0.50" y="0.00" xunits="fraction" yunits="fraction" />
+			</IconStyle>
+			<LabelStyle>
+				<scale>0.000000</scale>
+			</LabelStyle>
+		</Style>
+		<Style id="MarkerStyleMYONAT">
+			<IconStyle>
+				<Icon>
+					<href>http://www.wildlifeacoustics.com/echo-meter-touch/gps/marker_MYONAT.png</href>
+				</Icon>
+				<hotSpot x="0.50" y="0.00" xunits="fraction" yunits="fraction" />
+			</IconStyle>
+			<LabelStyle>
+				<scale>0.000000</scale>
+			</LabelStyle>
+		</Style>
+		<Style id="MarkerStyleNYCLAS">
+			<IconStyle>
+				<Icon>
+					<href>http://www.wildlifeacoustics.com/echo-meter-touch/gps/marker_NYCLAS.png</href>
+				</Icon>
+				<hotSpot x="0.50" y="0.00" xunits="fraction" yunits="fraction" />
+			</IconStyle>
+			<LabelStyle>
+				<scale>0.000000</scale>
+			</LabelStyle>
+		</Style>
+		<Style id="MarkerStyleNYCLEI">
+			<IconStyle>
+				<Icon>
+					<href>http://www.wildlifeacoustics.com/echo-meter-touch/gps/marker_NYCLEI.png</href>
+				</Icon>
+				<hotSpot x="0.50" y="0.00" xunits="fraction" yunits="fraction" />
+			</IconStyle>
+			<LabelStyle>
+				<scale>0.000000</scale>
+			</LabelStyle>
+		</Style>
+		<Style id="MarkerStyleNYCNOC">
+			<IconStyle>
+				<Icon>
+					<href>http://www.wildlifeacoustics.com/echo-meter-touch/gps/marker_NYCNOC.png</href>
+				</Icon>
+				<hotSpot x="0.50" y="0.00" xunits="fraction" yunits="fraction" />
+			</IconStyle>
+			<LabelStyle>
+				<scale>0.000000</scale>
+			</LabelStyle>
+		</Style>
+		<Style id="MarkerStylePIPKUH">
+			<IconStyle>
+				<Icon>
+					<href>http://www.wildlifeacoustics.com/echo-meter-touch/gps/marker_PIPKUH.png</href>
+				</Icon>
+				<hotSpot x="0.50" y="0.00" xunits="fraction" yunits="fraction" />
+			</IconStyle>
+			<LabelStyle>
+				<scale>0.000000</scale>
+			</LabelStyle>
+		</Style>
+		<Style id="MarkerStylePIPNAT">
+			<IconStyle>
+				<Icon>
+					<href>http://www.wildlifeacoustics.com/echo-meter-touch/gps/marker_PIPNAT.png</href>
+				</Icon>
+				<hotSpot x="0.50" y="0.00" xunits="fraction" yunits="fraction" />
+			</IconStyle>
+			<LabelStyle>
+				<scale>0.000000</scale>
+			</LabelStyle>
+		</Style>
+		<Style id="MarkerStylePIPPIP">
+			<IconStyle>
+				<Icon>
+					<href>http://www.wildlifeacoustics.com/echo-meter-touch/gps/marker_PIPPIP.png</href>
+				</Icon>
+				<hotSpot x="0.50" y="0.00" xunits="fraction" yunits="fraction" />
+			</IconStyle>
+			<LabelStyle>
+				<scale>0.000000</scale>
+			</LabelStyle>
+		</Style>
+		<Style id="MarkerStylePIPPYG">
+			<IconStyle>
+				<Icon>
+					<href>http://www.wildlifeacoustics.com/echo-meter-touch/gps/marker_PIPPYG.png</href>
+				</Icon>
+				<hotSpot x="0.50" y="0.00" xunits="fraction" yunits="fraction" />
+			</IconStyle>
+			<LabelStyle>
+				<scale>0.000000</scale>
+			</LabelStyle>
+		</Style>
+		<Style id="MarkerStylePLEAUR">
+			<IconStyle>
+				<Icon>
+					<href>http://www.wildlifeacoustics.com/echo-meter-touch/gps/marker_PLEAUR.png</href>
+				</Icon>
+				<hotSpot x="0.50" y="0.00" xunits="fraction" yunits="fraction" />
+			</IconStyle>
+			<LabelStyle>
+				<scale>0.000000</scale>
+			</LabelStyle>
+		</Style>
+		<Style id="MarkerStylePLEAUS">
+			<IconStyle>
+				<Icon>
+					<href>http://www.wildlifeacoustics.com/echo-meter-touch/gps/marker_PLEAUS.png</href>
+				</Icon>
+				<hotSpot x="0.50" y="0.00" xunits="fraction" yunits="fraction" />
+			</IconStyle>
+			<LabelStyle>
+				<scale>0.000000</scale>
+			</LabelStyle>
+		</Style>
+		<Style id="MarkerStyleRHIEUR">
+			<IconStyle>
+				<Icon>
+					<href>http://www.wildlifeacoustics.com/echo-meter-touch/gps/marker_RHIEUR.png</href>
+				</Icon>
+				<hotSpot x="0.50" y="0.00" xunits="fraction" yunits="fraction" />
+			</IconStyle>
+			<LabelStyle>
+				<scale>0.000000</scale>
+			</LabelStyle>
+		</Style>
+		<Style id="MarkerStyleRHIFER">
+			<IconStyle>
+				<Icon>
+					<href>http://www.wildlifeacoustics.com/echo-meter-touch/gps/marker_RHIFER.png</href>
+				</Icon>
+				<hotSpot x="0.50" y="0.00" xunits="fraction" yunits="fraction" />
+			</IconStyle>
+			<LabelStyle>
+				<scale>0.000000</scale>
+			</LabelStyle>
+		</Style>
+		<Style id="MarkerStyleRHIHIP">
+			<IconStyle>
+				<Icon>
+					<href>http://www.wildlifeacoustics.com/echo-meter-touch/gps/marker_RHIHIP.png</href>
+				</Icon>
+				<hotSpot x="0.50" y="0.00" xunits="fraction" yunits="fraction" />
+			</IconStyle>
+			<LabelStyle>
+				<scale>0.000000</scale>
+			</LabelStyle>
+		</Style>
+		<Style id="MarkerStyleTADTEN">
+			<IconStyle>
+				<Icon>
+					<href>http://www.wildlifeacoustics.com/echo-meter-touch/gps/marker_TADTEN.png</href>
+				</Icon>
+				<hotSpot x="0.50" y="0.00" xunits="fraction" yunits="fraction" />
+			</IconStyle>
+			<LabelStyle>
+				<scale>0.000000</scale>
+			</LabelStyle>
+		</Style>
+		<Style id="MarkerStyleVESMUR">
+			<IconStyle>
+				<Icon>
+					<href>http://www.wildlifeacoustics.com/echo-meter-touch/gps/marker_VESMUR.png</href>
+				</Icon>
+				<hotSpot x="0.50" y="0.00" xunits="fraction" yunits="fraction" />
+			</IconStyle>
+			<LabelStyle>
+				<scale>0.000000</scale>
+			</LabelStyle>
+		</Style>
+		<Style id="MarkerStyleBALIO">
+			<IconStyle>
+				<Icon>
+					<href>http://www.wildlifeacoustics.com/echo-meter-touch/gps/marker_BALIO.png</href>
+				</Icon>
+				<hotSpot x="0.50" y="0.00" xunits="fraction" yunits="fraction" />
+			</IconStyle>
+			<LabelStyle>
+				<scale>0.000000</scale>
+			</LabelStyle>
+		</Style>
+		<Style id="MarkerStyleBALPLI">
+			<IconStyle>
+				<Icon>
+					<href>http://www.wildlifeacoustics.com/echo-meter-touch/gps/marker_BALPLI.png</href>
+				</Icon>
+				<hotSpot x="0.50" y="0.00" xunits="fraction" yunits="fraction" />
+			</IconStyle>
+			<LabelStyle>
+				<scale>0.000000</scale>
+			</LabelStyle>
+		</Style>
+		<Style id="MarkerStyleBAUDUB">
+			<IconStyle>
+				<Icon>
+					<href>http://www.wildlifeacoustics.com/echo-meter-touch/gps/marker_BAUDUB.png</href>
+				</Icon>
+				<hotSpot x="0.50" y="0.00" xunits="fraction" yunits="fraction" />
+			</IconStyle>
+			<LabelStyle>
+				<scale>0.000000</scale>
+			</LabelStyle>
+		</Style>
+		<Style id="MarkerStyleCENCEN">
+			<IconStyle>
+				<Icon>
+					<href>http://www.wildlifeacoustics.com/echo-meter-touch/gps/marker_CENCEN.png</href>
+				</Icon>
+				<hotSpot x="0.50" y="0.00" xunits="fraction" yunits="fraction" />
+			</IconStyle>
+			<LabelStyle>
+				<scale>0.000000</scale>
+			</LabelStyle>
+		</Style>
+		<Style id="MarkerStyleCENMAX">
+			<IconStyle>
+				<Icon>
+					<href>http://www.wildlifeacoustics.com/echo-meter-touch/gps/marker_CENMAX.png</href>
+				</Icon>
+				<hotSpot x="0.50" y="0.00" xunits="fraction" yunits="fraction" />
+			</IconStyle>
+			<LabelStyle>
+				<scale>0.000000</scale>
+			</LabelStyle>
+		</Style>
+		<Style id="MarkerStyleCYNMEX">
+			<IconStyle>
+				<Icon>
+					<href>http://www.wildlifeacoustics.com/echo-meter-touch/gps/marker_CYNMEX.png</href>
+				</Icon>
+				<hotSpot x="0.50" y="0.00" xunits="fraction" yunits="fraction" />
+			</IconStyle>
+			<LabelStyle>
+				<scale>0.000000</scale>
+			</LabelStyle>
+		</Style>
+		<Style id="MarkerStyleDICALB">
+			<IconStyle>
+				<Icon>
+					<href>http://www.wildlifeacoustics.com/echo-meter-touch/gps/marker_DICALB.png</href>
+				</Icon>
+				<hotSpot x="0.50" y="0.00" xunits="fraction" yunits="fraction" />
+			</IconStyle>
+			<LabelStyle>
+				<scale>0.000000</scale>
+			</LabelStyle>
+		</Style>
+		<Style id="MarkerStyleEPTBRA">
+			<IconStyle>
+				<Icon>
+					<href>http://www.wildlifeacoustics.com/echo-meter-touch/gps/marker_EPTBRA.png</href>
+				</Icon>
+				<hotSpot x="0.50" y="0.00" xunits="fraction" yunits="fraction" />
+			</IconStyle>
+			<LabelStyle>
+				<scale>0.000000</scale>
+			</LabelStyle>
+		</Style>
+		<Style id="MarkerStyleEPTFUR">
+			<IconStyle>
+				<Icon>
+					<href>http://www.wildlifeacoustics.com/echo-meter-touch/gps/marker_EPTFUR.png</href>
+				</Icon>
+				<hotSpot x="0.50" y="0.00" xunits="fraction" yunits="fraction" />
+			</IconStyle>
+			<LabelStyle>
+				<scale>0.000000</scale>
+			</LabelStyle>
+		</Style>
+		<Style id="MarkerStyleEUMGLA">
+			<IconStyle>
+				<Icon>
+					<href>http://www.wildlifeacoustics.com/echo-meter-touch/gps/marker_EUMGLA.png</href>
+				</Icon>
+				<hotSpot x="0.50" y="0.00" xunits="fraction" yunits="fraction" />
+			</IconStyle>
+			<LabelStyle>
+				<scale>0.000000</scale>
+			</LabelStyle>
+		</Style>
+		<Style id="MarkerStyleMOLRUF">
+			<IconStyle>
+				<Icon>
+					<href>http://www.wildlifeacoustics.com/echo-meter-touch/gps/marker_MOLRUF.png</href>
+				</Icon>
+				<hotSpot x="0.50" y="0.00" xunits="fraction" yunits="fraction" />
+			</IconStyle>
+			<LabelStyle>
+				<scale>0.000000</scale>
+			</LabelStyle>
+		</Style>
+		<Style id="MarkerStyleMOLSIN">
+			<IconStyle>
+				<Icon>
+					<href>http://www.wildlifeacoustics.com/echo-meter-touch/gps/marker_MOLSIN.png</href>
+				</Icon>
+				<hotSpot x="0.50" y="0.00" xunits="fraction" yunits="fraction" />
+			</IconStyle>
+			<LabelStyle>
+				<scale>0.000000</scale>
+			</LabelStyle>
+		</Style>
+		<Style id="MarkerStyleMOLTEM">
+			<IconStyle>
+				<Icon>
+					<href>http://www.wildlifeacoustics.com/echo-meter-touch/gps/marker_MOLTEM.png</href>
+				</Icon>
+				<hotSpot x="0.50" y="0.00" xunits="fraction" yunits="fraction" />
+			</IconStyle>
+			<LabelStyle>
+				<scale>0.000000</scale>
+			</LabelStyle>
+		</Style>
+		<Style id="MarkerStyleMORBLA">
+			<IconStyle>
+				<Icon>
+					<href>http://www.wildlifeacoustics.com/echo-meter-touch/gps/marker_MORBLA.png</href>
+				</Icon>
+				<hotSpot x="0.50" y="0.00" xunits="fraction" yunits="fraction" />
+			</IconStyle>
+			<LabelStyle>
+				<scale>0.000000</scale>
+			</LabelStyle>
+		</Style>
+		<Style id="MarkerStyleMYOELE">
+			<IconStyle>
+				<Icon>
+					<href>http://www.wildlifeacoustics.com/echo-meter-touch/gps/marker_MYOELE.png</href>
+				</Icon>
+				<hotSpot x="0.50" y="0.00" xunits="fraction" yunits="fraction" />
+			</IconStyle>
+			<LabelStyle>
+				<scale>0.000000</scale>
+			</LabelStyle>
+		</Style>
+		<Style id="MarkerStyleMYOKEA">
+			<IconStyle>
+				<Icon>
+					<href>http://www.wildlifeacoustics.com/echo-meter-touch/gps/marker_MYOKEA.png</href>
+				</Icon>
+				<hotSpot x="0.50" y="0.00" xunits="fraction" yunits="fraction" />
+			</IconStyle>
+			<LabelStyle>
+				<scale>0.000000</scale>
+			</LabelStyle>
+		</Style>
+		<Style id="MarkerStyleMYONIG">
+			<IconStyle>
+				<Icon>
+					<href>http://www.wildlifeacoustics.com/echo-meter-touch/gps/marker_MYONIG.png</href>
+				</Icon>
+				<hotSpot x="0.50" y="0.00" xunits="fraction" yunits="fraction" />
+			</IconStyle>
+			<LabelStyle>
+				<scale>0.000000</scale>
+			</LabelStyle>
+		</Style>
+		<Style id="MarkerStyleMYORIP">
+			<IconStyle>
+				<Icon>
+					<href>http://www.wildlifeacoustics.com/echo-meter-touch/gps/marker_MYORIP.png</href>
+				</Icon>
+				<hotSpot x="0.50" y="0.00" xunits="fraction" yunits="fraction" />
+			</IconStyle>
+			<LabelStyle>
+				<scale>0.000000</scale>
+			</LabelStyle>
+		</Style>
+		<Style id="MarkerStyleNOCLEP">
+			<IconStyle>
+				<Icon>
+					<href>http://www.wildlifeacoustics.com/echo-meter-touch/gps/marker_NOCLEP.png</href>
+				</Icon>
+				<hotSpot x="0.50" y="0.00" xunits="fraction" yunits="fraction" />
+			</IconStyle>
+			<LabelStyle>
+				<scale>0.000000</scale>
+			</LabelStyle>
+		</Style>
+		<Style id="MarkerStyleNYCLAT">
+			<IconStyle>
+				<Icon>
+					<href>http://www.wildlifeacoustics.com/echo-meter-touch/gps/marker_NYCLAT.png</href>
+				</Icon>
+				<hotSpot x="0.50" y="0.00" xunits="fraction" yunits="fraction" />
+			</IconStyle>
+			<LabelStyle>
+				<scale>0.000000</scale>
+			</LabelStyle>
+		</Style>
+		<Style id="MarkerStylePERKAP">
+			<IconStyle>
+				<Icon>
+					<href>http://www.wildlifeacoustics.com/echo-meter-touch/gps/marker_PERKAP.png</href>
+				</Icon>
+				<hotSpot x="0.50" y="0.00" xunits="fraction" yunits="fraction" />
+			</IconStyle>
+			<LabelStyle>
+				<scale>0.000000</scale>
+			</LabelStyle>
+		</Style>
+		<Style id="MarkerStylePERMAC">
+			<IconStyle>
+				<Icon>
+					<href>http://www.wildlifeacoustics.com/echo-meter-touch/gps/marker_PERMAC.png</href>
+				</Icon>
+				<hotSpot x="0.50" y="0.00" xunits="fraction" yunits="fraction" />
+			</IconStyle>
+			<LabelStyle>
+				<scale>0.000000</scale>
+			</LabelStyle>
+		</Style>
+		<Style id="MarkerStylePROCEN">
+			<IconStyle>
+				<Icon>
+					<href>http://www.wildlifeacoustics.com/echo-meter-touch/gps/marker_PROCEN.png</href>
+				</Icon>
+				<hotSpot x="0.50" y="0.00" xunits="fraction" yunits="fraction" />
+			</IconStyle>
+			<LabelStyle>
+				<scale>0.000000</scale>
+			</LabelStyle>
+		</Style>
+		<Style id="MarkerStylePTEDAV">
+			<IconStyle>
+				<Icon>
+					<href>http://www.wildlifeacoustics.com/echo-meter-touch/gps/marker_PTEDAV.png</href>
+				</Icon>
+				<hotSpot x="0.50" y="0.00" xunits="fraction" yunits="fraction" />
+			</IconStyle>
+			<LabelStyle>
+				<scale>0.000000</scale>
+			</LabelStyle>
+		</Style>
+		<Style id="MarkerStylePTEGYM">
+			<IconStyle>
+				<Icon>
+					<href>http://www.wildlifeacoustics.com/echo-meter-touch/gps/marker_PTEGYM.png</href>
+				</Icon>
+				<hotSpot x="0.50" y="0.00" xunits="fraction" yunits="fraction" />
+			</IconStyle>
+			<LabelStyle>
+				<scale>0.000000</scale>
+			</LabelStyle>
+		</Style>
+		<Style id="MarkerStylePTEMAC">
+			<IconStyle>
+				<Icon>
+					<href>http://www.wildlifeacoustics.com/echo-meter-touch/gps/marker_PTEMAC.png</href>
+				</Icon>
+				<hotSpot x="0.50" y="0.00" xunits="fraction" yunits="fraction" />
+			</IconStyle>
+			<LabelStyle>
+				<scale>0.000000</scale>
+			</LabelStyle>
+		</Style>
+		<Style id="MarkerStylePTEMES">
+			<IconStyle>
+				<Icon>
+					<href>http://www.wildlifeacoustics.com/echo-meter-touch/gps/marker_PTEMES.png</href>
+				</Icon>
+				<hotSpot x="0.50" y="0.00" xunits="fraction" yunits="fraction" />
+			</IconStyle>
+			<LabelStyle>
+				<scale>0.000000</scale>
+			</LabelStyle>
+		</Style>
+		<Style id="MarkerStylePTEPAR">
+			<IconStyle>
+				<Icon>
+					<href>http://www.wildlifeacoustics.com/echo-meter-touch/gps/marker_PTEPAR.png</href>
+				</Icon>
+				<hotSpot x="0.50" y="0.00" xunits="fraction" yunits="fraction" />
+			</IconStyle>
+			<LabelStyle>
+				<scale>0.000000</scale>
+			</LabelStyle>
+		</Style>
+		<Style id="MarkerStylePTEPER">
+			<IconStyle>
+				<Icon>
+					<href>http://www.wildlifeacoustics.com/echo-meter-touch/gps/marker_PTEPER.png</href>
+				</Icon>
+				<hotSpot x="0.50" y="0.00" xunits="fraction" yunits="fraction" />
+			</IconStyle>
+			<LabelStyle>
+				<scale>0.000000</scale>
+			</LabelStyle>
+		</Style>
+		<Style id="MarkerStylePTEQUA">
+			<IconStyle>
+				<Icon>
+					<href>http://www.wildlifeacoustics.com/echo-meter-touch/gps/marker_PTEQUA.png</href>
+				</Icon>
+				<hotSpot x="0.50" y="0.00" xunits="fraction" yunits="fraction" />
+			</IconStyle>
+			<LabelStyle>
+				<scale>0.000000</scale>
+			</LabelStyle>
+		</Style>
+		<Style id="MarkerStyleRHOAEN">
+			<IconStyle>
+				<Icon>
+					<href>http://www.wildlifeacoustics.com/echo-meter-touch/gps/marker_RHOAEN.png</href>
+				</Icon>
+				<hotSpot x="0.50" y="0.00" xunits="fraction" yunits="fraction" />
+			</IconStyle>
+			<LabelStyle>
+				<scale>0.000000</scale>
+			</LabelStyle>
+		</Style>
+		<Style id="MarkerStyleRHOIO">
+			<IconStyle>
+				<Icon>
+					<href>http://www.wildlifeacoustics.com/echo-meter-touch/gps/marker_RHOIO.png</href>
+				</Icon>
+				<hotSpot x="0.50" y="0.00" xunits="fraction" yunits="fraction" />
+			</IconStyle>
+			<LabelStyle>
+				<scale>0.000000</scale>
+			</LabelStyle>
+		</Style>
+		<Style id="MarkerStyleRHYNAS">
+			<IconStyle>
+				<Icon>
+					<href>http://www.wildlifeacoustics.com/echo-meter-touch/gps/marker_RHYNAS.png</href>
+				</Icon>
+				<hotSpot x="0.50" y="0.00" xunits="fraction" yunits="fraction" />
+			</IconStyle>
+			<LabelStyle>
+				<scale>0.000000</scale>
+			</LabelStyle>
+		</Style>
+		<Style id="MarkerStyleSACBIL">
+			<IconStyle>
+				<Icon>
+					<href>http://www.wildlifeacoustics.com/echo-meter-touch/gps/marker_SACBIL.png</href>
+				</Icon>
+				<hotSpot x="0.50" y="0.00" xunits="fraction" yunits="fraction" />
+			</IconStyle>
+			<LabelStyle>
+				<scale>0.000000</scale>
+			</LabelStyle>
+		</Style>
+		<Style id="MarkerStyleSACCAN">
+			<IconStyle>
+				<Icon>
+					<href>http://www.wildlifeacoustics.com/echo-meter-touch/gps/marker_SACCAN.png</href>
+				</Icon>
+				<hotSpot x="0.50" y="0.00" xunits="fraction" yunits="fraction" />
+			</IconStyle>
+			<LabelStyle>
+				<scale>0.000000</scale>
+			</LabelStyle>
+		</Style>
+		<Style id="MarkerStyleSACLEP">
+			<IconStyle>
+				<Icon>
+					<href>http://www.wildlifeacoustics.com/echo-meter-touch/gps/marker_SACLEP.png</href>
+				</Icon>
+				<hotSpot x="0.50" y="0.00" xunits="fraction" yunits="fraction" />
+			</IconStyle>
+			<LabelStyle>
+				<scale>0.000000</scale>
+			</LabelStyle>
+		</Style>
+		<Style id="MarkerStyleCHAANS">
+			<IconStyle>
+				<Icon>
+					<href>http://www.wildlifeacoustics.com/echo-meter-touch/gps/marker_CHAANS.png</href>
+				</Icon>
+				<hotSpot x="0.50" y="0.00" xunits="fraction" yunits="fraction" />
+			</IconStyle>
+			<LabelStyle>
+				<scale>0.000000</scale>
+			</LabelStyle>
+		</Style>
+		<Style id="MarkerStyleCHABIV">
+			<IconStyle>
+				<Icon>
+					<href>http://www.wildlifeacoustics.com/echo-meter-touch/gps/marker_CHABIV.png</href>
+				</Icon>
+				<hotSpot x="0.50" y="0.00" xunits="fraction" yunits="fraction" />
+			</IconStyle>
+			<LabelStyle>
+				<scale>0.000000</scale>
+			</LabelStyle>
+		</Style>
+		<Style id="MarkerStyleCHAPUM">
+			<IconStyle>
+				<Icon>
+					<href>http://www.wildlifeacoustics.com/echo-meter-touch/gps/marker_CHAPUM.png</href>
+				</Icon>
+				<hotSpot x="0.50" y="0.00" xunits="fraction" yunits="fraction" />
+			</IconStyle>
+			<LabelStyle>
+				<scale>0.000000</scale>
+			</LabelStyle>
+		</Style>
+		<Style id="MarkerStyleCHAVAR">
+			<IconStyle>
+				<Icon>
+					<href>http://www.wildlifeacoustics.com/echo-meter-touch/gps/marker_CHAVAR.png</href>
+				</Icon>
+				<hotSpot x="0.50" y="0.00" xunits="fraction" yunits="fraction" />
+			</IconStyle>
+			<LabelStyle>
+				<scale>0.000000</scale>
+			</LabelStyle>
+		</Style>
+		<Style id="MarkerStyleCLEPER">
+			<IconStyle>
+				<Icon>
+					<href>http://www.wildlifeacoustics.com/echo-meter-touch/gps/marker_CLEPER.png</href>
+				</Icon>
+				<hotSpot x="0.50" y="0.00" xunits="fraction" yunits="fraction" />
+			</IconStyle>
+			<LabelStyle>
+				<scale>0.000000</scale>
+			</LabelStyle>
+		</Style>
+		<Style id="MarkerStyleEPOANG">
+			<IconStyle>
+				<Icon>
+					<href>http://www.wildlifeacoustics.com/echo-meter-touch/gps/marker_EPOANG.png</href>
+				</Icon>
+				<hotSpot x="0.50" y="0.00" xunits="fraction" yunits="fraction" />
+			</IconStyle>
+			<LabelStyle>
+				<scale>0.000000</scale>
+			</LabelStyle>
+		</Style>
+		<Style id="MarkerStyleEPTHOT">
+			<IconStyle>
+				<Icon>
+					<href>http://www.wildlifeacoustics.com/echo-meter-touch/gps/marker_EPTHOT.png</href>
+				</Icon>
+				<hotSpot x="0.50" y="0.00" xunits="fraction" yunits="fraction" />
+			</IconStyle>
+			<LabelStyle>
+				<scale>0.000000</scale>
+			</LabelStyle>
+		</Style>
+		<Style id="MarkerStyleHIPCAF">
+			<IconStyle>
+				<Icon>
+					<href>http://www.wildlifeacoustics.com/echo-meter-touch/gps/marker_HIPCAF.png</href>
+				</Icon>
+				<hotSpot x="0.50" y="0.00" xunits="fraction" yunits="fraction" />
+			</IconStyle>
+			<LabelStyle>
+				<scale>0.000000</scale>
+			</LabelStyle>
+		</Style>
+		<Style id="MarkerStyleHIPCOM">
+			<IconStyle>
+				<Icon>
+					<href>http://www.wildlifeacoustics.com/echo-meter-touch/gps/marker_HIPCOM.png</href>
+				</Icon>
+				<hotSpot x="0.50" y="0.00" xunits="fraction" yunits="fraction" />
+			</IconStyle>
+			<LabelStyle>
+				<scale>0.000000</scale>
+			</LabelStyle>
+		</Style>
+		<Style id="MarkerStyleHIPVIT">
+			<IconStyle>
+				<Icon>
+					<href>http://www.wildlifeacoustics.com/echo-meter-touch/gps/marker_HIPVIT.png</href>
+				</Icon>
+				<hotSpot x="0.50" y="0.00" xunits="fraction" yunits="fraction" />
+			</IconStyle>
+			<LabelStyle>
+				<scale>0.000000</scale>
+			</LabelStyle>
+		</Style>
+		<Style id="MarkerStyleHYPANC">
+			<IconStyle>
+				<Icon>
+					<href>http://www.wildlifeacoustics.com/echo-meter-touch/gps/marker_HYPANC.png</href>
+				</Icon>
+				<hotSpot x="0.50" y="0.00" xunits="fraction" yunits="fraction" />
+			</IconStyle>
+			<LabelStyle>
+				<scale>0.000000</scale>
+			</LabelStyle>
+		</Style>
+		<Style id="MarkerStyleKERLAN">
+			<IconStyle>
+				<Icon>
+					<href>http://www.wildlifeacoustics.com/echo-meter-touch/gps/marker_KERLAN.png</href>
+				</Icon>
+				<hotSpot x="0.50" y="0.00" xunits="fraction" yunits="fraction" />
+			</IconStyle>
+			<LabelStyle>
+				<scale>0.000000</scale>
+			</LabelStyle>
+		</Style>
+		<Style id="MarkerStyleLAEBOT">
+			<IconStyle>
+				<Icon>
+					<href>http://www.wildlifeacoustics.com/echo-meter-touch/gps/marker_LAEBOT.png</href>
+				</Icon>
+				<hotSpot x="0.50" y="0.00" xunits="fraction" yunits="fraction" />
+			</IconStyle>
+			<LabelStyle>
+				<scale>0.000000</scale>
+			</LabelStyle>
+		</Style>
+		<Style id="MarkerStyleLAEWIN">
+			<IconStyle>
+				<Icon>
+					<href>http://www.wildlifeacoustics.com/echo-meter-touch/gps/marker_LAEWIN.png</href>
+				</Icon>
+				<hotSpot x="0.50" y="0.00" xunits="fraction" yunits="fraction" />
+			</IconStyle>
+			<LabelStyle>
+				<scale>0.000000</scale>
+			</LabelStyle>
+		</Style>
+		<Style id="MarkerStyleMINFRA">
+			<IconStyle>
+				<Icon>
+					<href>http://www.wildlifeacoustics.com/echo-meter-touch/gps/marker_MINFRA.png</href>
+				</Icon>
+				<hotSpot x="0.50" y="0.00" xunits="fraction" yunits="fraction" />
+			</IconStyle>
+			<LabelStyle>
+				<scale>0.000000</scale>
+			</LabelStyle>
+		</Style>
+		<Style id="MarkerStyleMINNAT">
+			<IconStyle>
+				<Icon>
+					<href>http://www.wildlifeacoustics.com/echo-meter-touch/gps/marker_MINNAT.png</href>
+				</Icon>
+				<hotSpot x="0.50" y="0.00" xunits="fraction" yunits="fraction" />
+			</IconStyle>
+			<LabelStyle>
+				<scale>0.000000</scale>
+			</LabelStyle>
+		</Style>
+		<Style id="MarkerStyleMOPCON">
+			<IconStyle>
+				<Icon>
+					<href>http://www.wildlifeacoustics.com/echo-meter-touch/gps/marker_MOPCON.png</href>
+				</Icon>
+				<hotSpot x="0.50" y="0.00" xunits="fraction" yunits="fraction" />
+			</IconStyle>
+			<LabelStyle>
+				<scale>0.000000</scale>
+			</LabelStyle>
+		</Style>
+		<Style id="MarkerStyleMOPMID">
+			<IconStyle>
+				<Icon>
+					<href>http://www.wildlifeacoustics.com/echo-meter-touch/gps/marker_MOPMID.png</href>
+				</Icon>
+				<hotSpot x="0.50" y="0.00" xunits="fraction" yunits="fraction" />
+			</IconStyle>
+			<LabelStyle>
+				<scale>0.000000</scale>
+			</LabelStyle>
+		</Style>
+		<Style id="MarkerStyleMYOBOC">
+			<IconStyle>
+				<Icon>
+					<href>http://www.wildlifeacoustics.com/echo-meter-touch/gps/marker_MYOBOC.png</href>
+				</Icon>
+				<hotSpot x="0.50" y="0.00" xunits="fraction" yunits="fraction" />
+			</IconStyle>
+			<LabelStyle>
+				<scale>0.000000</scale>
+			</LabelStyle>
+		</Style>
+		<Style id="MarkerStyleMYOLES">
+			<IconStyle>
+				<Icon>
+					<href>http://www.wildlifeacoustics.com/echo-meter-touch/gps/marker_MYOLES.png</href>
+				</Icon>
+				<hotSpot x="0.50" y="0.00" xunits="fraction" yunits="fraction" />
+			</IconStyle>
+			<LabelStyle>
+				<scale>0.000000</scale>
+			</LabelStyle>
+		</Style>
+		<Style id="MarkerStyleMYOSEA">
+			<IconStyle>
+				<Icon>
+					<href>http://www.wildlifeacoustics.com/echo-meter-touch/gps/marker_MYOSEA.png</href>
+				</Icon>
+				<hotSpot x="0.50" y="0.00" xunits="fraction" yunits="fraction" />
+			</IconStyle>
+			<LabelStyle>
+				<scale>0.000000</scale>
+			</LabelStyle>
+		</Style>
+		<Style id="MarkerStyleMYOTRI">
+			<IconStyle>
+				<Icon>
+					<href>http://www.wildlifeacoustics.com/echo-meter-touch/gps/marker_MYOTRI.png</href>
+				</Icon>
+				<hotSpot x="0.50" y="0.00" xunits="fraction" yunits="fraction" />
+			</IconStyle>
+			<LabelStyle>
+				<scale>0.000000</scale>
+			</LabelStyle>
+		</Style>
+		<Style id="MarkerStyleMYOWEL">
+			<IconStyle>
+				<Icon>
+					<href>http://www.wildlifeacoustics.com/echo-meter-touch/gps/marker_MYOWEL.png</href>
+				</Icon>
+				<hotSpot x="0.50" y="0.00" xunits="fraction" yunits="fraction" />
+			</IconStyle>
+			<LabelStyle>
+				<scale>0.000000</scale>
+			</LabelStyle>
+		</Style>
+		<Style id="MarkerStyleMYSTUB">
+			<IconStyle>
+				<Icon>
+					<href>http://www.wildlifeacoustics.com/echo-meter-touch/gps/marker_MYSTUB.png</href>
+				</Icon>
+				<hotSpot x="0.50" y="0.00" xunits="fraction" yunits="fraction" />
+			</IconStyle>
+			<LabelStyle>
+				<scale>0.000000</scale>
+			</LabelStyle>
+		</Style>
+		<Style id="MarkerStyleNEOAFR">
+			<IconStyle>
+				<Icon>
+					<href>http://www.wildlifeacoustics.com/echo-meter-touch/gps/marker_NEOAFR.png</href>
+				</Icon>
+				<hotSpot x="0.50" y="0.00" xunits="fraction" yunits="fraction" />
+			</IconStyle>
+			<LabelStyle>
+				<scale>0.000000</scale>
+			</LabelStyle>
+		</Style>
+		<Style id="MarkerStyleNEOCAP">
+			<IconStyle>
+				<Icon>
+					<href>http://www.wildlifeacoustics.com/echo-meter-touch/gps/marker_NEOCAP.png</href>
+				</Icon>
+				<hotSpot x="0.50" y="0.00" xunits="fraction" yunits="fraction" />
+			</IconStyle>
+			<LabelStyle>
+				<scale>0.000000</scale>
+			</LabelStyle>
+		</Style>
+		<Style id="MarkerStyleNEONAN">
+			<IconStyle>
+				<Icon>
+					<href>http://www.wildlifeacoustics.com/echo-meter-touch/gps/marker_NEONAN.png</href>
+				</Icon>
+				<hotSpot x="0.50" y="0.00" xunits="fraction" yunits="fraction" />
+			</IconStyle>
+			<LabelStyle>
+				<scale>0.000000</scale>
+			</LabelStyle>
+		</Style>
+		<Style id="MarkerStyleNEOSOM">
+			<IconStyle>
+				<Icon>
+					<href>http://www.wildlifeacoustics.com/echo-meter-touch/gps/marker_NEOSOM.png</href>
+				</Icon>
+				<hotSpot x="0.50" y="0.00" xunits="fraction" yunits="fraction" />
+			</IconStyle>
+			<LabelStyle>
+				<scale>0.000000</scale>
+			</LabelStyle>
+		</Style>
+		<Style id="MarkerStyleNEOZUL">
+			<IconStyle>
+				<Icon>
+					<href>http://www.wildlifeacoustics.com/echo-meter-touch/gps/marker_NEOZUL.png</href>
+				</Icon>
+				<hotSpot x="0.50" y="0.00" xunits="fraction" yunits="fraction" />
+			</IconStyle>
+			<LabelStyle>
+				<scale>0.000000</scale>
+			</LabelStyle>
+		</Style>
+		<Style id="MarkerStyleNYCHIS">
+			<IconStyle>
+				<Icon>
+					<href>http://www.wildlifeacoustics.com/echo-meter-touch/gps/marker_NYCHIS.png</href>
+				</Icon>
+				<hotSpot x="0.50" y="0.00" xunits="fraction" yunits="fraction" />
+			</IconStyle>
+			<LabelStyle>
+				<scale>0.000000</scale>
+			</LabelStyle>
+		</Style>
+		<Style id="MarkerStyleNYCSCH">
+			<IconStyle>
+				<Icon>
+					<href>http://www.wildlifeacoustics.com/echo-meter-touch/gps/marker_NYCSCH.png</href>
+				</Icon>
+				<hotSpot x="0.50" y="0.00" xunits="fraction" yunits="fraction" />
+			</IconStyle>
+			<LabelStyle>
+				<scale>0.000000</scale>
+			</LabelStyle>
+		</Style>
+		<Style id="MarkerStyleNYCTHE">
+			<IconStyle>
+				<Icon>
+					<href>http://www.wildlifeacoustics.com/echo-meter-touch/gps/marker_NYCTHE.png</href>
+				</Icon>
+				<hotSpot x="0.50" y="0.00" xunits="fraction" yunits="fraction" />
+			</IconStyle>
+			<LabelStyle>
+				<scale>0.000000</scale>
+			</LabelStyle>
+		</Style>
+		<Style id="MarkerStyleOTOMAR">
+			<IconStyle>
+				<Icon>
+					<href>http://www.wildlifeacoustics.com/echo-meter-touch/gps/marker_OTOMAR.png</href>
+				</Icon>
+				<hotSpot x="0.50" y="0.00" xunits="fraction" yunits="fraction" />
+			</IconStyle>
+			<LabelStyle>
+				<scale>0.000000</scale>
+			</LabelStyle>
+		</Style>
+		<Style id="MarkerStylePIPHES">
+			<IconStyle>
+				<Icon>
+					<href>http://www.wildlifeacoustics.com/echo-meter-touch/gps/marker_PIPHES.png</href>
+				</Icon>
+				<hotSpot x="0.50" y="0.00" xunits="fraction" yunits="fraction" />
+			</IconStyle>
+			<LabelStyle>
+				<scale>0.000000</scale>
+			</LabelStyle>
+		</Style>
+		<Style id="MarkerStylePIPRUE">
+			<IconStyle>
+				<Icon>
+					<href>http://www.wildlifeacoustics.com/echo-meter-touch/gps/marker_PIPRUE.png</href>
+				</Icon>
+				<hotSpot x="0.50" y="0.00" xunits="fraction" yunits="fraction" />
+			</IconStyle>
+			<LabelStyle>
+				<scale>0.000000</scale>
+			</LabelStyle>
+		</Style>
+		<Style id="MarkerStylePIPRUS">
+			<IconStyle>
+				<Icon>
+					<href>http://www.wildlifeacoustics.com/echo-meter-touch/gps/marker_PIPRUS.png</href>
+				</Icon>
+				<hotSpot x="0.50" y="0.00" xunits="fraction" yunits="fraction" />
+			</IconStyle>
+			<LabelStyle>
+				<scale>0.000000</scale>
+			</LabelStyle>
+		</Style>
+		<Style id="MarkerStyleRHIBLA">
+			<IconStyle>
+				<Icon>
+					<href>http://www.wildlifeacoustics.com/echo-meter-touch/gps/marker_RHIBLA.png</href>
+				</Icon>
+				<hotSpot x="0.50" y="0.00" xunits="fraction" yunits="fraction" />
+			</IconStyle>
+			<LabelStyle>
+				<scale>0.000000</scale>
+			</LabelStyle>
+		</Style>
+		<Style id="MarkerStyleRHICAP">
+			<IconStyle>
+				<Icon>
+					<href>http://www.wildlifeacoustics.com/echo-meter-touch/gps/marker_RHICAP.png</href>
+				</Icon>
+				<hotSpot x="0.50" y="0.00" xunits="fraction" yunits="fraction" />
+			</IconStyle>
+			<LabelStyle>
+				<scale>0.000000</scale>
+			</LabelStyle>
+		</Style>
+		<Style id="MarkerStyleRHICLI">
+			<IconStyle>
+				<Icon>
+					<href>http://www.wildlifeacoustics.com/echo-meter-touch/gps/marker_RHICLI.png</href>
+				</Icon>
+				<hotSpot x="0.50" y="0.00" xunits="fraction" yunits="fraction" />
+			</IconStyle>
+			<LabelStyle>
+				<scale>0.000000</scale>
+			</LabelStyle>
+		</Style>
+		<Style id="MarkerStyleRHIDAR">
+			<IconStyle>
+				<Icon>
+					<href>http://www.wildlifeacoustics.com/echo-meter-touch/gps/marker_RHIDAR.png</href>
+				</Icon>
+				<hotSpot x="0.50" y="0.00" xunits="fraction" yunits="fraction" />
+			</IconStyle>
+			<LabelStyle>
+				<scale>0.000000</scale>
+			</LabelStyle>
+		</Style>
+		<Style id="MarkerStyleRHIDEN">
+			<IconStyle>
+				<Icon>
+					<href>http://www.wildlifeacoustics.com/echo-meter-touch/gps/marker_RHIDEN.png</href>
+				</Icon>
+				<hotSpot x="0.50" y="0.00" xunits="fraction" yunits="fraction" />
+			</IconStyle>
+			<LabelStyle>
+				<scale>0.000000</scale>
+			</LabelStyle>
+		</Style>
+		<Style id="MarkerStyleRHIFUM">
+			<IconStyle>
+				<Icon>
+					<href>http://www.wildlifeacoustics.com/echo-meter-touch/gps/marker_RHIFUM.png</href>
+				</Icon>
+				<hotSpot x="0.50" y="0.00" xunits="fraction" yunits="fraction" />
+			</IconStyle>
+			<LabelStyle>
+				<scale>0.000000</scale>
+			</LabelStyle>
+		</Style>
+		<Style id="MarkerStyleRHIHIL">
+			<IconStyle>
+				<Icon>
+					<href>http://www.wildlifeacoustics.com/echo-meter-touch/gps/marker_RHIHIL.png</href>
+				</Icon>
+				<hotSpot x="0.50" y="0.00" xunits="fraction" yunits="fraction" />
+			</IconStyle>
+			<LabelStyle>
+				<scale>0.000000</scale>
+			</LabelStyle>
+		</Style>
+		<Style id="MarkerStyleRHILAN">
+			<IconStyle>
+				<Icon>
+					<href>http://www.wildlifeacoustics.com/echo-meter-touch/gps/marker_RHILAN.png</href>
+				</Icon>
+				<hotSpot x="0.50" y="0.00" xunits="fraction" yunits="fraction" />
+			</IconStyle>
+			<LabelStyle>
+				<scale>0.000000</scale>
+			</LabelStyle>
+		</Style>
+		<Style id="MarkerStyleRHISIM">
+			<IconStyle>
+				<Icon>
+					<href>http://www.wildlifeacoustics.com/echo-meter-touch/gps/marker_RHISIM.png</href>
+				</Icon>
+				<hotSpot x="0.50" y="0.00" xunits="fraction" yunits="fraction" />
+			</IconStyle>
+			<LabelStyle>
+				<scale>0.000000</scale>
+			</LabelStyle>
+		</Style>
+		<Style id="MarkerStyleRHISMI">
+			<IconStyle>
+				<Icon>
+					<href>http://www.wildlifeacoustics.com/echo-meter-touch/gps/marker_RHISMI.png</href>
+				</Icon>
+				<hotSpot x="0.50" y="0.00" xunits="fraction" yunits="fraction" />
+			</IconStyle>
+			<LabelStyle>
+				<scale>0.000000</scale>
+			</LabelStyle>
+		</Style>
+		<Style id="MarkerStyleRHISWI">
+			<IconStyle>
+				<Icon>
+					<href>http://www.wildlifeacoustics.com/echo-meter-touch/gps/marker_RHISWI.png</href>
+				</Icon>
+				<hotSpot x="0.50" y="0.00" xunits="fraction" yunits="fraction" />
+			</IconStyle>
+			<LabelStyle>
+				<scale>0.000000</scale>
+			</LabelStyle>
+		</Style>
+		<Style id="MarkerStyleSAUPET">
+			<IconStyle>
+				<Icon>
+					<href>http://www.wildlifeacoustics.com/echo-meter-touch/gps/marker_SAUPET.png</href>
+				</Icon>
+				<hotSpot x="0.50" y="0.00" xunits="fraction" yunits="fraction" />
+			</IconStyle>
+			<LabelStyle>
+				<scale>0.000000</scale>
+			</LabelStyle>
+		</Style>
+		<Style id="MarkerStyleSCOALB">
+			<IconStyle>
+				<Icon>
+					<href>http://www.wildlifeacoustics.com/echo-meter-touch/gps/marker_SCOALB.png</href>
+				</Icon>
+				<hotSpot x="0.50" y="0.00" xunits="fraction" yunits="fraction" />
+			</IconStyle>
+			<LabelStyle>
+				<scale>0.000000</scale>
+			</LabelStyle>
+		</Style>
+		<Style id="MarkerStyleSCODIN">
+			<IconStyle>
+				<Icon>
+					<href>http://www.wildlifeacoustics.com/echo-meter-touch/gps/marker_SCODIN.png</href>
+				</Icon>
+				<hotSpot x="0.50" y="0.00" xunits="fraction" yunits="fraction" />
+			</IconStyle>
+			<LabelStyle>
+				<scale>0.000000</scale>
+			</LabelStyle>
+		</Style>
+		<Style id="MarkerStyleSCONIG">
+			<IconStyle>
+				<Icon>
+					<href>http://www.wildlifeacoustics.com/echo-meter-touch/gps/marker_SCONIG.png</href>
+				</Icon>
+				<hotSpot x="0.50" y="0.00" xunits="fraction" yunits="fraction" />
+			</IconStyle>
+			<LabelStyle>
+				<scale>0.000000</scale>
+			</LabelStyle>
+		</Style>
+		<Style id="MarkerStyleSCOVIR">
+			<IconStyle>
+				<Icon>
+					<href>http://www.wildlifeacoustics.com/echo-meter-touch/gps/marker_SCOVIR.png</href>
+				</Icon>
+				<hotSpot x="0.50" y="0.00" xunits="fraction" yunits="fraction" />
+			</IconStyle>
+			<LabelStyle>
+				<scale>0.000000</scale>
+			</LabelStyle>
+		</Style>
+		<Style id="MarkerStyleTADAEG">
+			<IconStyle>
+				<Icon>
+					<href>http://www.wildlifeacoustics.com/echo-meter-touch/gps/marker_TADAEG.png</href>
+				</Icon>
+				<hotSpot x="0.50" y="0.00" xunits="fraction" yunits="fraction" />
+			</IconStyle>
+			<LabelStyle>
+				<scale>0.000000</scale>
+			</LabelStyle>
+		</Style>
+		<Style id="MarkerStyleTAPMAU">
+			<IconStyle>
+				<Icon>
+					<href>http://www.wildlifeacoustics.com/echo-meter-touch/gps/marker_TAPMAU.png</href>
+				</Icon>
+				<hotSpot x="0.50" y="0.00" xunits="fraction" yunits="fraction" />
+			</IconStyle>
+			<LabelStyle>
+				<scale>0.000000</scale>
+			</LabelStyle>
+		</Style>
+		<Style id="MarkerStyleTRIPER">
+			<IconStyle>
+				<Icon>
+					<href>http://www.wildlifeacoustics.com/echo-meter-touch/gps/marker_TRIPER.png</href>
+				</Icon>
+				<hotSpot x="0.50" y="0.00" xunits="fraction" yunits="fraction" />
+			</IconStyle>
+			<LabelStyle>
+				<scale>0.000000</scale>
+			</LabelStyle>
+		</Style>
+		<Style id="MarkerStyleNoID">
+			<IconStyle>
+				<Icon>
+					<href>http://www.wildlifeacoustics.com/echo-meter-touch/gps/marker_NoId.png</href>
+				</Icon>
+				<hotSpot x="0.50" y="0.00" xunits="fraction" yunits="fraction" />
+			</IconStyle>
+			<LabelStyle>
+				<scale>0.000000</scale>
+			</LabelStyle>
+		</Style>
+		<Style id="MarkerStyle">
+			<IconStyle>
+				<Icon>
+					<href>http://www.wildlifeacoustics.com/echo-meter-touch/gps/marker.png</href>
+				</Icon>
+				<hotSpot x="0.50" y="0.00" xunits="fraction" yunits="fraction" />
+			</IconStyle>
+			<LabelStyle>
+				<scale>0.000000</scale>
+			</LabelStyle>
+		</Style>
+		<Placemark>
+			<name>NoID_20220919_190742</name>
+			<description><![CDATA[19 September 2022 at 19:07<br/>Latitude:51.79084<br/>Longitude:-3.435034]]></description>
+			<styleUrl>#MarkerStyleNoID</styleUrl>
+			<ExtendedData>
+				<Data name="Bat Type">
+					<value>NoID</value>
+				</Data>
+				<Data name="Recorder">
+					<value>Echo Meter Touch 2 Pro</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-3.435034,51.790840,250.597321</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>NoID_20220919_190749</name>
+			<description><![CDATA[19 September 2022 at 19:07<br/>Latitude:51.79099<br/>Longitude:-3.434968]]></description>
+			<styleUrl>#MarkerStyleNoID</styleUrl>
+			<ExtendedData>
+				<Data name="Bat Type">
+					<value>NoID</value>
+				</Data>
+				<Data name="Recorder">
+					<value>Echo Meter Touch 2 Pro</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-3.434968,51.790985,246.260101</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>NoID_20220919_190848</name>
+			<description><![CDATA[19 September 2022 at 19:08<br/>Latitude:51.7909<br/>Longitude:-3.435]]></description>
+			<styleUrl>#MarkerStyleNoID</styleUrl>
+			<ExtendedData>
+				<Data name="Bat Type">
+					<value>NoID</value>
+				</Data>
+				<Data name="Recorder">
+					<value>Echo Meter Touch 2 Pro</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-3.435000,51.790905,247.029373</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>NYCNOC_20220919_191027</name>
+			<description><![CDATA[19 September 2022 at 19:10<br/>Latitude:51.79087<br/>Longitude:-3.435011]]></description>
+			<styleUrl>#MarkerStyleNYCNOC</styleUrl>
+			<ExtendedData>
+				<Data name="Bat Type">
+					<value>NYCNOC</value>
+				</Data>
+				<Data name="Recorder">
+					<value>Echo Meter Touch 2 Pro</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-3.435011,51.790867,248.956696</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>NoID_20220919_191436</name>
+			<description><![CDATA[19 September 2022 at 19:14<br/>Latitude:51.79087<br/>Longitude:-3.435011]]></description>
+			<styleUrl>#MarkerStyleNoID</styleUrl>
+			<ExtendedData>
+				<Data name="Bat Type">
+					<value>NoID</value>
+				</Data>
+				<Data name="Recorder">
+					<value>Echo Meter Touch 2 Pro</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-3.435011,51.790867,248.956696</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>NYCNOC_20220919_191616</name>
+			<description><![CDATA[19 September 2022 at 19:16<br/>Latitude:51.79087<br/>Longitude:-3.435011]]></description>
+			<styleUrl>#MarkerStyleNYCNOC</styleUrl>
+			<ExtendedData>
+				<Data name="Bat Type">
+					<value>NYCNOC</value>
+				</Data>
+				<Data name="Recorder">
+					<value>Echo Meter Touch 2 Pro</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-3.435011,51.790867,248.956696</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>NoID_20220919_191736</name>
+			<description><![CDATA[19 September 2022 at 19:17<br/>Latitude:51.79087<br/>Longitude:-3.435011]]></description>
+			<styleUrl>#MarkerStyleNoID</styleUrl>
+			<ExtendedData>
+				<Data name="Bat Type">
+					<value>NoID</value>
+				</Data>
+				<Data name="Recorder">
+					<value>Echo Meter Touch 2 Pro</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-3.435011,51.790867,248.956696</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>NoID_20220919_191739</name>
+			<description><![CDATA[19 September 2022 at 19:17<br/>Latitude:51.79087<br/>Longitude:-3.435011]]></description>
+			<styleUrl>#MarkerStyleNoID</styleUrl>
+			<ExtendedData>
+				<Data name="Bat Type">
+					<value>NoID</value>
+				</Data>
+				<Data name="Recorder">
+					<value>Echo Meter Touch 2 Pro</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-3.435011,51.790867,248.956696</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>NoID_20220919_191748</name>
+			<description><![CDATA[19 September 2022 at 19:17<br/>Latitude:51.79087<br/>Longitude:-3.435011]]></description>
+			<styleUrl>#MarkerStyleNoID</styleUrl>
+			<ExtendedData>
+				<Data name="Bat Type">
+					<value>NoID</value>
+				</Data>
+				<Data name="Recorder">
+					<value>Echo Meter Touch 2 Pro</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-3.435011,51.790867,248.956696</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>NoID_20220919_191759</name>
+			<description><![CDATA[19 September 2022 at 19:17<br/>Latitude:51.79087<br/>Longitude:-3.435011]]></description>
+			<styleUrl>#MarkerStyleNoID</styleUrl>
+			<ExtendedData>
+				<Data name="Bat Type">
+					<value>NoID</value>
+				</Data>
+				<Data name="Recorder">
+					<value>Echo Meter Touch 2 Pro</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-3.435011,51.790867,248.956696</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>NoID_20220919_191804</name>
+			<description><![CDATA[19 September 2022 at 19:18<br/>Latitude:51.79087<br/>Longitude:-3.435011]]></description>
+			<styleUrl>#MarkerStyleNoID</styleUrl>
+			<ExtendedData>
+				<Data name="Bat Type">
+					<value>NoID</value>
+				</Data>
+				<Data name="Recorder">
+					<value>Echo Meter Touch 2 Pro</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-3.435011,51.790867,248.956696</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>NoID_20220919_191812</name>
+			<description><![CDATA[19 September 2022 at 19:18<br/>Latitude:51.79087<br/>Longitude:-3.435011]]></description>
+			<styleUrl>#MarkerStyleNoID</styleUrl>
+			<ExtendedData>
+				<Data name="Bat Type">
+					<value>NoID</value>
+				</Data>
+				<Data name="Recorder">
+					<value>Echo Meter Touch 2 Pro</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-3.435011,51.790867,248.956696</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>NoID_20220919_191818</name>
+			<description><![CDATA[19 September 2022 at 19:18<br/>Latitude:51.79087<br/>Longitude:-3.435011]]></description>
+			<styleUrl>#MarkerStyleNoID</styleUrl>
+			<ExtendedData>
+				<Data name="Bat Type">
+					<value>NoID</value>
+				</Data>
+				<Data name="Recorder">
+					<value>Echo Meter Touch 2 Pro</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-3.435011,51.790867,248.956696</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>NoID_20220919_191833</name>
+			<description><![CDATA[19 September 2022 at 19:18<br/>Latitude:51.79087<br/>Longitude:-3.435011]]></description>
+			<styleUrl>#MarkerStyleNoID</styleUrl>
+			<ExtendedData>
+				<Data name="Bat Type">
+					<value>NoID</value>
+				</Data>
+				<Data name="Recorder">
+					<value>Echo Meter Touch 2 Pro</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-3.435011,51.790867,248.956696</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>NoID_20220919_191843</name>
+			<description><![CDATA[19 September 2022 at 19:18<br/>Latitude:51.79087<br/>Longitude:-3.435011]]></description>
+			<styleUrl>#MarkerStyleNoID</styleUrl>
+			<ExtendedData>
+				<Data name="Bat Type">
+					<value>NoID</value>
+				</Data>
+				<Data name="Recorder">
+					<value>Echo Meter Touch 2 Pro</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-3.435011,51.790867,248.956696</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>NoID_20220919_191848</name>
+			<description><![CDATA[19 September 2022 at 19:18<br/>Latitude:51.79087<br/>Longitude:-3.435011]]></description>
+			<styleUrl>#MarkerStyleNoID</styleUrl>
+			<ExtendedData>
+				<Data name="Bat Type">
+					<value>NoID</value>
+				</Data>
+				<Data name="Recorder">
+					<value>Echo Meter Touch 2 Pro</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-3.435011,51.790867,248.956696</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>NoID_20220919_191858</name>
+			<description><![CDATA[19 September 2022 at 19:18<br/>Latitude:51.79087<br/>Longitude:-3.435011]]></description>
+			<styleUrl>#MarkerStyleNoID</styleUrl>
+			<ExtendedData>
+				<Data name="Bat Type">
+					<value>NoID</value>
+				</Data>
+				<Data name="Recorder">
+					<value>Echo Meter Touch 2 Pro</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-3.435011,51.790867,248.956696</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>NoID_20220919_191908</name>
+			<description><![CDATA[19 September 2022 at 19:19<br/>Latitude:51.79087<br/>Longitude:-3.435011]]></description>
+			<styleUrl>#MarkerStyleNoID</styleUrl>
+			<ExtendedData>
+				<Data name="Bat Type">
+					<value>NoID</value>
+				</Data>
+				<Data name="Recorder">
+					<value>Echo Meter Touch 2 Pro</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-3.435011,51.790867,248.956696</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>NoID_20220919_191921</name>
+			<description><![CDATA[19 September 2022 at 19:19<br/>Latitude:51.79087<br/>Longitude:-3.435011]]></description>
+			<styleUrl>#MarkerStyleNoID</styleUrl>
+			<ExtendedData>
+				<Data name="Bat Type">
+					<value>NoID</value>
+				</Data>
+				<Data name="Recorder">
+					<value>Echo Meter Touch 2 Pro</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-3.435011,51.790867,248.956696</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>NoID_20220919_191934</name>
+			<description><![CDATA[19 September 2022 at 19:19<br/>Latitude:51.79087<br/>Longitude:-3.435011]]></description>
+			<styleUrl>#MarkerStyleNoID</styleUrl>
+			<ExtendedData>
+				<Data name="Bat Type">
+					<value>NoID</value>
+				</Data>
+				<Data name="Recorder">
+					<value>Echo Meter Touch 2 Pro</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-3.435011,51.790867,248.956696</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>NoID_20220919_191939</name>
+			<description><![CDATA[19 September 2022 at 19:19<br/>Latitude:51.79087<br/>Longitude:-3.435011]]></description>
+			<styleUrl>#MarkerStyleNoID</styleUrl>
+			<ExtendedData>
+				<Data name="Bat Type">
+					<value>NoID</value>
+				</Data>
+				<Data name="Recorder">
+					<value>Echo Meter Touch 2 Pro</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-3.435011,51.790867,248.956696</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>NoID_20220919_191950</name>
+			<description><![CDATA[19 September 2022 at 19:19<br/>Latitude:51.79087<br/>Longitude:-3.435011]]></description>
+			<styleUrl>#MarkerStyleNoID</styleUrl>
+			<ExtendedData>
+				<Data name="Bat Type">
+					<value>NoID</value>
+				</Data>
+				<Data name="Recorder">
+					<value>Echo Meter Touch 2 Pro</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-3.435011,51.790867,248.956696</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>NoID_20220919_191957</name>
+			<description><![CDATA[19 September 2022 at 19:19<br/>Latitude:51.79087<br/>Longitude:-3.435011]]></description>
+			<styleUrl>#MarkerStyleNoID</styleUrl>
+			<ExtendedData>
+				<Data name="Bat Type">
+					<value>NoID</value>
+				</Data>
+				<Data name="Recorder">
+					<value>Echo Meter Touch 2 Pro</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-3.435011,51.790867,248.956696</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>NoID_20220919_192005</name>
+			<description><![CDATA[19 September 2022 at 19:20<br/>Latitude:51.79087<br/>Longitude:-3.435011]]></description>
+			<styleUrl>#MarkerStyleNoID</styleUrl>
+			<ExtendedData>
+				<Data name="Bat Type">
+					<value>NoID</value>
+				</Data>
+				<Data name="Recorder">
+					<value>Echo Meter Touch 2 Pro</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-3.435011,51.790867,248.956696</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>NoID_20220919_192016</name>
+			<description><![CDATA[19 September 2022 at 19:20<br/>Latitude:51.79087<br/>Longitude:-3.435011]]></description>
+			<styleUrl>#MarkerStyleNoID</styleUrl>
+			<ExtendedData>
+				<Data name="Bat Type">
+					<value>NoID</value>
+				</Data>
+				<Data name="Recorder">
+					<value>Echo Meter Touch 2 Pro</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-3.435011,51.790867,248.956696</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>MYONAT_20220919_192029</name>
+			<description><![CDATA[19 September 2022 at 19:20<br/>Latitude:51.79087<br/>Longitude:-3.435011]]></description>
+			<styleUrl>#MarkerStyleMYONAT</styleUrl>
+			<ExtendedData>
+				<Data name="Bat Type">
+					<value>MYONAT</value>
+				</Data>
+				<Data name="Recorder">
+					<value>Echo Meter Touch 2 Pro</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-3.435011,51.790867,248.956696</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>NoID_20220919_192054</name>
+			<description><![CDATA[19 September 2022 at 19:20<br/>Latitude:51.79087<br/>Longitude:-3.435011]]></description>
+			<styleUrl>#MarkerStyleNoID</styleUrl>
+			<ExtendedData>
+				<Data name="Bat Type">
+					<value>NoID</value>
+				</Data>
+				<Data name="Recorder">
+					<value>Echo Meter Touch 2 Pro</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-3.435011,51.790867,248.956696</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>NoID_20220919_192152</name>
+			<description><![CDATA[19 September 2022 at 19:21<br/>Latitude:51.79087<br/>Longitude:-3.435011]]></description>
+			<styleUrl>#MarkerStyleNoID</styleUrl>
+			<ExtendedData>
+				<Data name="Bat Type">
+					<value>NoID</value>
+				</Data>
+				<Data name="Recorder">
+					<value>Echo Meter Touch 2 Pro</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-3.435011,51.790867,248.956696</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>NoID_20220919_192230</name>
+			<description><![CDATA[19 September 2022 at 19:22<br/>Latitude:51.79087<br/>Longitude:-3.435011]]></description>
+			<styleUrl>#MarkerStyleNoID</styleUrl>
+			<ExtendedData>
+				<Data name="Bat Type">
+					<value>NoID</value>
+				</Data>
+				<Data name="Recorder">
+					<value>Echo Meter Touch 2 Pro</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-3.435011,51.790867,248.956696</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>NoID_20220919_192245</name>
+			<description><![CDATA[19 September 2022 at 19:22<br/>Latitude:51.79087<br/>Longitude:-3.435011]]></description>
+			<styleUrl>#MarkerStyleNoID</styleUrl>
+			<ExtendedData>
+				<Data name="Bat Type">
+					<value>NoID</value>
+				</Data>
+				<Data name="Recorder">
+					<value>Echo Meter Touch 2 Pro</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-3.435011,51.790867,248.956696</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>NoID_20220919_192530</name>
+			<description><![CDATA[19 September 2022 at 19:25<br/>Latitude:51.79087<br/>Longitude:-3.435011]]></description>
+			<styleUrl>#MarkerStyleNoID</styleUrl>
+			<ExtendedData>
+				<Data name="Bat Type">
+					<value>NoID</value>
+				</Data>
+				<Data name="Recorder">
+					<value>Echo Meter Touch 2 Pro</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-3.435011,51.790867,248.956696</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>NoID_20220919_192600</name>
+			<description><![CDATA[19 September 2022 at 19:26<br/>Latitude:51.79087<br/>Longitude:-3.435011]]></description>
+			<styleUrl>#MarkerStyleNoID</styleUrl>
+			<ExtendedData>
+				<Data name="Bat Type">
+					<value>NoID</value>
+				</Data>
+				<Data name="Recorder">
+					<value>Echo Meter Touch 2 Pro</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-3.435011,51.790867,248.956696</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>NoID_20220919_192615</name>
+			<description><![CDATA[19 September 2022 at 19:26<br/>Latitude:51.79087<br/>Longitude:-3.435011]]></description>
+			<styleUrl>#MarkerStyleNoID</styleUrl>
+			<ExtendedData>
+				<Data name="Bat Type">
+					<value>NoID</value>
+				</Data>
+				<Data name="Recorder">
+					<value>Echo Meter Touch 2 Pro</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-3.435011,51.790867,248.956696</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>MYONAT_20220919_192626</name>
+			<description><![CDATA[19 September 2022 at 19:26<br/>Latitude:51.79087<br/>Longitude:-3.435011]]></description>
+			<styleUrl>#MarkerStyleMYONAT</styleUrl>
+			<ExtendedData>
+				<Data name="Bat Type">
+					<value>MYONAT</value>
+				</Data>
+				<Data name="Recorder">
+					<value>Echo Meter Touch 2 Pro</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-3.435011,51.790867,248.956696</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>NoID_20220919_192802</name>
+			<description><![CDATA[19 September 2022 at 19:28<br/>Latitude:51.79087<br/>Longitude:-3.435011]]></description>
+			<styleUrl>#MarkerStyleNoID</styleUrl>
+			<ExtendedData>
+				<Data name="Bat Type">
+					<value>NoID</value>
+				</Data>
+				<Data name="Recorder">
+					<value>Echo Meter Touch 2 Pro</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-3.435011,51.790867,248.956696</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>NoID_20220919_192818</name>
+			<description><![CDATA[19 September 2022 at 19:28<br/>Latitude:51.79087<br/>Longitude:-3.435011]]></description>
+			<styleUrl>#MarkerStyleNoID</styleUrl>
+			<ExtendedData>
+				<Data name="Bat Type">
+					<value>NoID</value>
+				</Data>
+				<Data name="Recorder">
+					<value>Echo Meter Touch 2 Pro</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-3.435011,51.790867,248.956696</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>NoID_20220919_192824</name>
+			<description><![CDATA[19 September 2022 at 19:28<br/>Latitude:51.79087<br/>Longitude:-3.435011]]></description>
+			<styleUrl>#MarkerStyleNoID</styleUrl>
+			<ExtendedData>
+				<Data name="Bat Type">
+					<value>NoID</value>
+				</Data>
+				<Data name="Recorder">
+					<value>Echo Meter Touch 2 Pro</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-3.435011,51.790867,248.956696</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>NoID_20220919_192833</name>
+			<description><![CDATA[19 September 2022 at 19:28<br/>Latitude:51.79087<br/>Longitude:-3.435011]]></description>
+			<styleUrl>#MarkerStyleNoID</styleUrl>
+			<ExtendedData>
+				<Data name="Bat Type">
+					<value>NoID</value>
+				</Data>
+				<Data name="Recorder">
+					<value>Echo Meter Touch 2 Pro</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-3.435011,51.790867,248.956696</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>NoID_20220919_192838</name>
+			<description><![CDATA[19 September 2022 at 19:28<br/>Latitude:51.79087<br/>Longitude:-3.435011]]></description>
+			<styleUrl>#MarkerStyleNoID</styleUrl>
+			<ExtendedData>
+				<Data name="Bat Type">
+					<value>NoID</value>
+				</Data>
+				<Data name="Recorder">
+					<value>Echo Meter Touch 2 Pro</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-3.435011,51.790867,248.956696</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>NoID_20220919_192851</name>
+			<description><![CDATA[19 September 2022 at 19:28<br/>Latitude:51.79087<br/>Longitude:-3.435011]]></description>
+			<styleUrl>#MarkerStyleNoID</styleUrl>
+			<ExtendedData>
+				<Data name="Bat Type">
+					<value>NoID</value>
+				</Data>
+				<Data name="Recorder">
+					<value>Echo Meter Touch 2 Pro</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-3.435011,51.790867,248.956696</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>NoID_20220919_192934</name>
+			<description><![CDATA[19 September 2022 at 19:29<br/>Latitude:51.79087<br/>Longitude:-3.435011]]></description>
+			<styleUrl>#MarkerStyleNoID</styleUrl>
+			<ExtendedData>
+				<Data name="Bat Type">
+					<value>NoID</value>
+				</Data>
+				<Data name="Recorder">
+					<value>Echo Meter Touch 2 Pro</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-3.435011,51.790867,248.956696</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>NoID_20220919_192957</name>
+			<description><![CDATA[19 September 2022 at 19:29<br/>Latitude:51.79087<br/>Longitude:-3.435011]]></description>
+			<styleUrl>#MarkerStyleNoID</styleUrl>
+			<ExtendedData>
+				<Data name="Bat Type">
+					<value>NoID</value>
+				</Data>
+				<Data name="Recorder">
+					<value>Echo Meter Touch 2 Pro</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-3.435011,51.790867,248.956696</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>NoID_20220919_193007</name>
+			<description><![CDATA[19 September 2022 at 19:30<br/>Latitude:51.79087<br/>Longitude:-3.435011]]></description>
+			<styleUrl>#MarkerStyleNoID</styleUrl>
+			<ExtendedData>
+				<Data name="Bat Type">
+					<value>NoID</value>
+				</Data>
+				<Data name="Recorder">
+					<value>Echo Meter Touch 2 Pro</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-3.435011,51.790867,248.956696</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>NoID_20220919_193016</name>
+			<description><![CDATA[19 September 2022 at 19:30<br/>Latitude:51.79087<br/>Longitude:-3.435011]]></description>
+			<styleUrl>#MarkerStyleNoID</styleUrl>
+			<ExtendedData>
+				<Data name="Bat Type">
+					<value>NoID</value>
+				</Data>
+				<Data name="Recorder">
+					<value>Echo Meter Touch 2 Pro</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-3.435011,51.790867,248.956696</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>NoID_20220919_193029</name>
+			<description><![CDATA[19 September 2022 at 19:30<br/>Latitude:51.79087<br/>Longitude:-3.435011]]></description>
+			<styleUrl>#MarkerStyleNoID</styleUrl>
+			<ExtendedData>
+				<Data name="Bat Type">
+					<value>NoID</value>
+				</Data>
+				<Data name="Recorder">
+					<value>Echo Meter Touch 2 Pro</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-3.435011,51.790867,248.956696</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>NoID_20220919_193049</name>
+			<description><![CDATA[19 September 2022 at 19:30<br/>Latitude:51.79087<br/>Longitude:-3.435011]]></description>
+			<styleUrl>#MarkerStyleNoID</styleUrl>
+			<ExtendedData>
+				<Data name="Bat Type">
+					<value>NoID</value>
+				</Data>
+				<Data name="Recorder">
+					<value>Echo Meter Touch 2 Pro</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-3.435011,51.790867,248.956696</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>NoID_20220919_193103</name>
+			<description><![CDATA[19 September 2022 at 19:31<br/>Latitude:51.79087<br/>Longitude:-3.435011]]></description>
+			<styleUrl>#MarkerStyleNoID</styleUrl>
+			<ExtendedData>
+				<Data name="Bat Type">
+					<value>NoID</value>
+				</Data>
+				<Data name="Recorder">
+					<value>Echo Meter Touch 2 Pro</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-3.435011,51.790867,248.956696</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>NoID_20220919_193117</name>
+			<description><![CDATA[19 September 2022 at 19:31<br/>Latitude:51.79087<br/>Longitude:-3.435011]]></description>
+			<styleUrl>#MarkerStyleNoID</styleUrl>
+			<ExtendedData>
+				<Data name="Bat Type">
+					<value>NoID</value>
+				</Data>
+				<Data name="Recorder">
+					<value>Echo Meter Touch 2 Pro</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-3.435011,51.790867,248.956696</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>NoID_20220919_193126</name>
+			<description><![CDATA[19 September 2022 at 19:31<br/>Latitude:51.79087<br/>Longitude:-3.435011]]></description>
+			<styleUrl>#MarkerStyleNoID</styleUrl>
+			<ExtendedData>
+				<Data name="Bat Type">
+					<value>NoID</value>
+				</Data>
+				<Data name="Recorder">
+					<value>Echo Meter Touch 2 Pro</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-3.435011,51.790867,248.956696</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>NoID_20220919_193141</name>
+			<description><![CDATA[19 September 2022 at 19:31<br/>Latitude:51.79087<br/>Longitude:-3.435011]]></description>
+			<styleUrl>#MarkerStyleNoID</styleUrl>
+			<ExtendedData>
+				<Data name="Bat Type">
+					<value>NoID</value>
+				</Data>
+				<Data name="Recorder">
+					<value>Echo Meter Touch 2 Pro</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-3.435011,51.790867,248.956696</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>NoID_20220919_193328</name>
+			<description><![CDATA[19 September 2022 at 19:33<br/>Latitude:51.79087<br/>Longitude:-3.435011]]></description>
+			<styleUrl>#MarkerStyleNoID</styleUrl>
+			<ExtendedData>
+				<Data name="Bat Type">
+					<value>NoID</value>
+				</Data>
+				<Data name="Recorder">
+					<value>Echo Meter Touch 2 Pro</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-3.435011,51.790867,248.956696</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>NoID_20220919_193338</name>
+			<description><![CDATA[19 September 2022 at 19:33<br/>Latitude:51.79087<br/>Longitude:-3.435011]]></description>
+			<styleUrl>#MarkerStyleNoID</styleUrl>
+			<ExtendedData>
+				<Data name="Bat Type">
+					<value>NoID</value>
+				</Data>
+				<Data name="Recorder">
+					<value>Echo Meter Touch 2 Pro</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-3.435011,51.790867,248.956696</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>NoID_20220919_193409</name>
+			<description><![CDATA[19 September 2022 at 19:34<br/>Latitude:51.79087<br/>Longitude:-3.435011]]></description>
+			<styleUrl>#MarkerStyleNoID</styleUrl>
+			<ExtendedData>
+				<Data name="Bat Type">
+					<value>NoID</value>
+				</Data>
+				<Data name="Recorder">
+					<value>Echo Meter Touch 2 Pro</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-3.435011,51.790867,248.956696</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>NoID_20220919_193441</name>
+			<description><![CDATA[19 September 2022 at 19:34<br/>Latitude:51.79087<br/>Longitude:-3.435011]]></description>
+			<styleUrl>#MarkerStyleNoID</styleUrl>
+			<ExtendedData>
+				<Data name="Bat Type">
+					<value>NoID</value>
+				</Data>
+				<Data name="Recorder">
+					<value>Echo Meter Touch 2 Pro</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-3.435011,51.790867,248.956696</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>PIPPIP_20220919_193452</name>
+			<description><![CDATA[19 September 2022 at 19:34<br/>Latitude:51.79087<br/>Longitude:-3.435011]]></description>
+			<styleUrl>#MarkerStylePIPPIP</styleUrl>
+			<ExtendedData>
+				<Data name="Bat Type">
+					<value>PIPPIP</value>
+				</Data>
+				<Data name="Recorder">
+					<value>Echo Meter Touch 2 Pro</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-3.435011,51.790867,248.956696</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>NoID_20220919_193624</name>
+			<description><![CDATA[19 September 2022 at 19:36<br/>Latitude:51.79087<br/>Longitude:-3.435011]]></description>
+			<styleUrl>#MarkerStyleNoID</styleUrl>
+			<ExtendedData>
+				<Data name="Bat Type">
+					<value>NoID</value>
+				</Data>
+				<Data name="Recorder">
+					<value>Echo Meter Touch 2 Pro</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-3.435011,51.790867,248.956696</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>NoID_20220919_193649</name>
+			<description><![CDATA[19 September 2022 at 19:36<br/>Latitude:51.79087<br/>Longitude:-3.435011]]></description>
+			<styleUrl>#MarkerStyleNoID</styleUrl>
+			<ExtendedData>
+				<Data name="Bat Type">
+					<value>NoID</value>
+				</Data>
+				<Data name="Recorder">
+					<value>Echo Meter Touch 2 Pro</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-3.435011,51.790867,248.956696</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>NYCNOC_20220919_193742</name>
+			<description><![CDATA[19 September 2022 at 19:37<br/>Latitude:51.79087<br/>Longitude:-3.435011]]></description>
+			<styleUrl>#MarkerStyleNYCNOC</styleUrl>
+			<ExtendedData>
+				<Data name="Bat Type">
+					<value>NYCNOC</value>
+				</Data>
+				<Data name="Recorder">
+					<value>Echo Meter Touch 2 Pro</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-3.435011,51.790867,248.956696</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>NoID_20220919_193748</name>
+			<description><![CDATA[19 September 2022 at 19:37<br/>Latitude:51.79087<br/>Longitude:-3.435011]]></description>
+			<styleUrl>#MarkerStyleNoID</styleUrl>
+			<ExtendedData>
+				<Data name="Bat Type">
+					<value>NoID</value>
+				</Data>
+				<Data name="Recorder">
+					<value>Echo Meter Touch 2 Pro</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-3.435011,51.790867,248.956696</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>NoID_20220919_193807</name>
+			<description><![CDATA[19 September 2022 at 19:38<br/>Latitude:51.79087<br/>Longitude:-3.435011]]></description>
+			<styleUrl>#MarkerStyleNoID</styleUrl>
+			<ExtendedData>
+				<Data name="Bat Type">
+					<value>NoID</value>
+				</Data>
+				<Data name="Recorder">
+					<value>Echo Meter Touch 2 Pro</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-3.435011,51.790867,248.956696</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>NoID_20220919_193813</name>
+			<description><![CDATA[19 September 2022 at 19:38<br/>Latitude:51.79087<br/>Longitude:-3.435011]]></description>
+			<styleUrl>#MarkerStyleNoID</styleUrl>
+			<ExtendedData>
+				<Data name="Bat Type">
+					<value>NoID</value>
+				</Data>
+				<Data name="Recorder">
+					<value>Echo Meter Touch 2 Pro</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-3.435011,51.790867,248.956696</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>NYCNOC_20220919_193831</name>
+			<description><![CDATA[19 September 2022 at 19:38<br/>Latitude:51.79087<br/>Longitude:-3.435011]]></description>
+			<styleUrl>#MarkerStyleNYCNOC</styleUrl>
+			<ExtendedData>
+				<Data name="Bat Type">
+					<value>NYCNOC</value>
+				</Data>
+				<Data name="Recorder">
+					<value>Echo Meter Touch 2 Pro</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-3.435011,51.790867,248.956696</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>NYCNOC_20220919_193839</name>
+			<description><![CDATA[19 September 2022 at 19:38<br/>Latitude:51.79087<br/>Longitude:-3.435011]]></description>
+			<styleUrl>#MarkerStyleNYCNOC</styleUrl>
+			<ExtendedData>
+				<Data name="Bat Type">
+					<value>NYCNOC</value>
+				</Data>
+				<Data name="Recorder">
+					<value>Echo Meter Touch 2 Pro</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-3.435011,51.790867,248.956696</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>PIPPYG_20220919_193846</name>
+			<description><![CDATA[19 September 2022 at 19:38<br/>Latitude:51.79087<br/>Longitude:-3.435011]]></description>
+			<styleUrl>#MarkerStylePIPPYG</styleUrl>
+			<ExtendedData>
+				<Data name="Bat Type">
+					<value>PIPPYG</value>
+				</Data>
+				<Data name="Recorder">
+					<value>Echo Meter Touch 2 Pro</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-3.435011,51.790867,248.956696</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>NoID_20220919_193858</name>
+			<description><![CDATA[19 September 2022 at 19:38<br/>Latitude:51.79087<br/>Longitude:-3.435011]]></description>
+			<styleUrl>#MarkerStyleNoID</styleUrl>
+			<ExtendedData>
+				<Data name="Bat Type">
+					<value>NoID</value>
+				</Data>
+				<Data name="Recorder">
+					<value>Echo Meter Touch 2 Pro</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-3.435011,51.790867,248.956696</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>NYCNOC_20220919_193910</name>
+			<description><![CDATA[19 September 2022 at 19:39<br/>Latitude:51.79087<br/>Longitude:-3.435011]]></description>
+			<styleUrl>#MarkerStyleNYCNOC</styleUrl>
+			<ExtendedData>
+				<Data name="Bat Type">
+					<value>NYCNOC</value>
+				</Data>
+				<Data name="Recorder">
+					<value>Echo Meter Touch 2 Pro</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-3.435011,51.790867,248.956696</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>NoID_20220919_193916</name>
+			<description><![CDATA[19 September 2022 at 19:39<br/>Latitude:51.79087<br/>Longitude:-3.435011]]></description>
+			<styleUrl>#MarkerStyleNoID</styleUrl>
+			<ExtendedData>
+				<Data name="Bat Type">
+					<value>NoID</value>
+				</Data>
+				<Data name="Recorder">
+					<value>Echo Meter Touch 2 Pro</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-3.435011,51.790867,248.956696</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>NoID_20220919_193944</name>
+			<description><![CDATA[19 September 2022 at 19:39<br/>Latitude:51.79087<br/>Longitude:-3.435011]]></description>
+			<styleUrl>#MarkerStyleNoID</styleUrl>
+			<ExtendedData>
+				<Data name="Bat Type">
+					<value>NoID</value>
+				</Data>
+				<Data name="Recorder">
+					<value>Echo Meter Touch 2 Pro</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-3.435011,51.790867,248.956696</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>PIPPIP_20220919_194047</name>
+			<description><![CDATA[19 September 2022 at 19:40<br/>Latitude:51.79087<br/>Longitude:-3.435011]]></description>
+			<styleUrl>#MarkerStylePIPPIP</styleUrl>
+			<ExtendedData>
+				<Data name="Bat Type">
+					<value>PIPPIP</value>
+				</Data>
+				<Data name="Recorder">
+					<value>Echo Meter Touch 2 Pro</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-3.435011,51.790867,248.956696</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>NoID_20220919_194102</name>
+			<description><![CDATA[19 September 2022 at 19:41<br/>Latitude:51.79087<br/>Longitude:-3.435011]]></description>
+			<styleUrl>#MarkerStyleNoID</styleUrl>
+			<ExtendedData>
+				<Data name="Bat Type">
+					<value>NoID</value>
+				</Data>
+				<Data name="Recorder">
+					<value>Echo Meter Touch 2 Pro</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-3.435011,51.790867,248.956696</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>NoID_20220919_194111</name>
+			<description><![CDATA[19 September 2022 at 19:41<br/>Latitude:51.79087<br/>Longitude:-3.435011]]></description>
+			<styleUrl>#MarkerStyleNoID</styleUrl>
+			<ExtendedData>
+				<Data name="Bat Type">
+					<value>NoID</value>
+				</Data>
+				<Data name="Recorder">
+					<value>Echo Meter Touch 2 Pro</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-3.435011,51.790867,248.956696</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>NoID_20220919_194125</name>
+			<description><![CDATA[19 September 2022 at 19:41<br/>Latitude:51.79087<br/>Longitude:-3.435011]]></description>
+			<styleUrl>#MarkerStyleNoID</styleUrl>
+			<ExtendedData>
+				<Data name="Bat Type">
+					<value>NoID</value>
+				</Data>
+				<Data name="Recorder">
+					<value>Echo Meter Touch 2 Pro</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-3.435011,51.790867,248.956696</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>NoID_20220919_194136</name>
+			<description><![CDATA[19 September 2022 at 19:41<br/>Latitude:51.79087<br/>Longitude:-3.435011]]></description>
+			<styleUrl>#MarkerStyleNoID</styleUrl>
+			<ExtendedData>
+				<Data name="Bat Type">
+					<value>NoID</value>
+				</Data>
+				<Data name="Recorder">
+					<value>Echo Meter Touch 2 Pro</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-3.435011,51.790867,248.956696</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>PIPPYG_20220919_194212</name>
+			<description><![CDATA[19 September 2022 at 19:42<br/>Latitude:51.79087<br/>Longitude:-3.435011]]></description>
+			<styleUrl>#MarkerStylePIPPYG</styleUrl>
+			<ExtendedData>
+				<Data name="Bat Type">
+					<value>PIPPYG</value>
+				</Data>
+				<Data name="Recorder">
+					<value>Echo Meter Touch 2 Pro</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-3.435011,51.790867,248.956696</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>NoID_20220919_194304</name>
+			<description><![CDATA[19 September 2022 at 19:43<br/>Latitude:51.79087<br/>Longitude:-3.435011]]></description>
+			<styleUrl>#MarkerStyleNoID</styleUrl>
+			<ExtendedData>
+				<Data name="Bat Type">
+					<value>NoID</value>
+				</Data>
+				<Data name="Recorder">
+					<value>Echo Meter Touch 2 Pro</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-3.435011,51.790867,248.956696</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>NoID_20220919_194414</name>
+			<description><![CDATA[19 September 2022 at 19:44<br/>Latitude:51.79087<br/>Longitude:-3.435011]]></description>
+			<styleUrl>#MarkerStyleNoID</styleUrl>
+			<ExtendedData>
+				<Data name="Bat Type">
+					<value>NoID</value>
+				</Data>
+				<Data name="Recorder">
+					<value>Echo Meter Touch 2 Pro</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-3.435011,51.790867,248.956696</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>NoID_20220919_194420</name>
+			<description><![CDATA[19 September 2022 at 19:44<br/>Latitude:51.79087<br/>Longitude:-3.435011]]></description>
+			<styleUrl>#MarkerStyleNoID</styleUrl>
+			<ExtendedData>
+				<Data name="Bat Type">
+					<value>NoID</value>
+				</Data>
+				<Data name="Recorder">
+					<value>Echo Meter Touch 2 Pro</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-3.435011,51.790867,248.956696</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>NoID_20220919_194431</name>
+			<description><![CDATA[19 September 2022 at 19:44<br/>Latitude:51.79087<br/>Longitude:-3.435011]]></description>
+			<styleUrl>#MarkerStyleNoID</styleUrl>
+			<ExtendedData>
+				<Data name="Bat Type">
+					<value>NoID</value>
+				</Data>
+				<Data name="Recorder">
+					<value>Echo Meter Touch 2 Pro</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-3.435011,51.790867,248.956696</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>NoID_20220919_194441</name>
+			<description><![CDATA[19 September 2022 at 19:44<br/>Latitude:51.79087<br/>Longitude:-3.435011]]></description>
+			<styleUrl>#MarkerStyleNoID</styleUrl>
+			<ExtendedData>
+				<Data name="Bat Type">
+					<value>NoID</value>
+				</Data>
+				<Data name="Recorder">
+					<value>Echo Meter Touch 2 Pro</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-3.435011,51.790867,248.956696</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>NoID_20220919_194450</name>
+			<description><![CDATA[19 September 2022 at 19:44<br/>Latitude:51.79087<br/>Longitude:-3.435011]]></description>
+			<styleUrl>#MarkerStyleNoID</styleUrl>
+			<ExtendedData>
+				<Data name="Bat Type">
+					<value>NoID</value>
+				</Data>
+				<Data name="Recorder">
+					<value>Echo Meter Touch 2 Pro</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-3.435011,51.790867,248.956696</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>NoID_20220919_194456</name>
+			<description><![CDATA[19 September 2022 at 19:44<br/>Latitude:51.79087<br/>Longitude:-3.435011]]></description>
+			<styleUrl>#MarkerStyleNoID</styleUrl>
+			<ExtendedData>
+				<Data name="Bat Type">
+					<value>NoID</value>
+				</Data>
+				<Data name="Recorder">
+					<value>Echo Meter Touch 2 Pro</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-3.435011,51.790867,248.956696</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>NoID_20220919_194509</name>
+			<description><![CDATA[19 September 2022 at 19:45<br/>Latitude:51.79087<br/>Longitude:-3.435011]]></description>
+			<styleUrl>#MarkerStyleNoID</styleUrl>
+			<ExtendedData>
+				<Data name="Bat Type">
+					<value>NoID</value>
+				</Data>
+				<Data name="Recorder">
+					<value>Echo Meter Touch 2 Pro</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-3.435011,51.790867,248.956696</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>PIPPYG_20220919_194512</name>
+			<description><![CDATA[19 September 2022 at 19:45<br/>Latitude:51.79087<br/>Longitude:-3.435011]]></description>
+			<styleUrl>#MarkerStylePIPPYG</styleUrl>
+			<ExtendedData>
+				<Data name="Bat Type">
+					<value>PIPPYG</value>
+				</Data>
+				<Data name="Recorder">
+					<value>Echo Meter Touch 2 Pro</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-3.435011,51.790867,248.956696</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>PIPPYG_20220919_194659</name>
+			<description><![CDATA[19 September 2022 at 19:46<br/>Latitude:51.79087<br/>Longitude:-3.435011]]></description>
+			<styleUrl>#MarkerStylePIPPYG</styleUrl>
+			<ExtendedData>
+				<Data name="Bat Type">
+					<value>PIPPYG</value>
+				</Data>
+				<Data name="Recorder">
+					<value>Echo Meter Touch 2 Pro</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-3.435011,51.790867,248.956696</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>PIPPYG_20220919_194938</name>
+			<description><![CDATA[19 September 2022 at 19:49<br/>Latitude:51.79087<br/>Longitude:-3.435011]]></description>
+			<styleUrl>#MarkerStylePIPPYG</styleUrl>
+			<ExtendedData>
+				<Data name="Bat Type">
+					<value>PIPPYG</value>
+				</Data>
+				<Data name="Recorder">
+					<value>Echo Meter Touch 2 Pro</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-3.435011,51.790867,248.956696</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>PIPPYG_20220919_194953</name>
+			<description><![CDATA[19 September 2022 at 19:49<br/>Latitude:51.79087<br/>Longitude:-3.435011]]></description>
+			<styleUrl>#MarkerStylePIPPYG</styleUrl>
+			<ExtendedData>
+				<Data name="Bat Type">
+					<value>PIPPYG</value>
+				</Data>
+				<Data name="Recorder">
+					<value>Echo Meter Touch 2 Pro</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-3.435011,51.790867,248.956696</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>PIPPYG_20220919_195004</name>
+			<description><![CDATA[19 September 2022 at 19:50<br/>Latitude:51.79087<br/>Longitude:-3.435011]]></description>
+			<styleUrl>#MarkerStylePIPPYG</styleUrl>
+			<ExtendedData>
+				<Data name="Bat Type">
+					<value>PIPPYG</value>
+				</Data>
+				<Data name="Recorder">
+					<value>Echo Meter Touch 2 Pro</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-3.435011,51.790867,248.956696</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>PIPPYG_20220919_195019</name>
+			<description><![CDATA[19 September 2022 at 19:50<br/>Latitude:51.79087<br/>Longitude:-3.435011]]></description>
+			<styleUrl>#MarkerStylePIPPYG</styleUrl>
+			<ExtendedData>
+				<Data name="Bat Type">
+					<value>PIPPYG</value>
+				</Data>
+				<Data name="Recorder">
+					<value>Echo Meter Touch 2 Pro</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-3.435011,51.790867,248.956696</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>PIPPYG_20220919_195023</name>
+			<description><![CDATA[19 September 2022 at 19:50<br/>Latitude:51.79087<br/>Longitude:-3.435011]]></description>
+			<styleUrl>#MarkerStylePIPPYG</styleUrl>
+			<ExtendedData>
+				<Data name="Bat Type">
+					<value>PIPPYG</value>
+				</Data>
+				<Data name="Recorder">
+					<value>Echo Meter Touch 2 Pro</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-3.435011,51.790867,248.956696</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>PIPPYG_20220919_195030</name>
+			<description><![CDATA[19 September 2022 at 19:50<br/>Latitude:51.79087<br/>Longitude:-3.435011]]></description>
+			<styleUrl>#MarkerStylePIPPYG</styleUrl>
+			<ExtendedData>
+				<Data name="Bat Type">
+					<value>PIPPYG</value>
+				</Data>
+				<Data name="Recorder">
+					<value>Echo Meter Touch 2 Pro</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-3.435011,51.790867,248.956696</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>PIPPYG_20220919_195054</name>
+			<description><![CDATA[19 September 2022 at 19:50<br/>Latitude:51.79087<br/>Longitude:-3.435011]]></description>
+			<styleUrl>#MarkerStylePIPPYG</styleUrl>
+			<ExtendedData>
+				<Data name="Bat Type">
+					<value>PIPPYG</value>
+				</Data>
+				<Data name="Recorder">
+					<value>Echo Meter Touch 2 Pro</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-3.435011,51.790867,248.956696</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>NoID_20220919_195141</name>
+			<description><![CDATA[19 September 2022 at 19:51<br/>Latitude:51.79087<br/>Longitude:-3.435011]]></description>
+			<styleUrl>#MarkerStyleNoID</styleUrl>
+			<ExtendedData>
+				<Data name="Bat Type">
+					<value>NoID</value>
+				</Data>
+				<Data name="Recorder">
+					<value>Echo Meter Touch 2 Pro</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-3.435011,51.790867,248.956696</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>NoID_20220919_195223</name>
+			<description><![CDATA[19 September 2022 at 19:52<br/>Latitude:51.79087<br/>Longitude:-3.435011]]></description>
+			<styleUrl>#MarkerStyleNoID</styleUrl>
+			<ExtendedData>
+				<Data name="Bat Type">
+					<value>NoID</value>
+				</Data>
+				<Data name="Recorder">
+					<value>Echo Meter Touch 2 Pro</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-3.435011,51.790867,248.956696</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>PIPPYG_20220919_195308</name>
+			<description><![CDATA[19 September 2022 at 19:53<br/>Latitude:51.79087<br/>Longitude:-3.435011]]></description>
+			<styleUrl>#MarkerStylePIPPYG</styleUrl>
+			<ExtendedData>
+				<Data name="Bat Type">
+					<value>PIPPYG</value>
+				</Data>
+				<Data name="Recorder">
+					<value>Echo Meter Touch 2 Pro</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-3.435011,51.790867,248.956696</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>PIPPIP_20220919_195524</name>
+			<description><![CDATA[19 September 2022 at 19:55<br/>Latitude:51.79087<br/>Longitude:-3.435011]]></description>
+			<styleUrl>#MarkerStylePIPPIP</styleUrl>
+			<ExtendedData>
+				<Data name="Bat Type">
+					<value>PIPPIP</value>
+				</Data>
+				<Data name="Recorder">
+					<value>Echo Meter Touch 2 Pro</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-3.435011,51.790867,248.956696</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>PIPPIP_20220919_195723</name>
+			<description><![CDATA[19 September 2022 at 19:57<br/>Latitude:51.79087<br/>Longitude:-3.435011]]></description>
+			<styleUrl>#MarkerStylePIPPIP</styleUrl>
+			<ExtendedData>
+				<Data name="Bat Type">
+					<value>PIPPIP</value>
+				</Data>
+				<Data name="Recorder">
+					<value>Echo Meter Touch 2 Pro</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-3.435011,51.790867,248.956696</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>NoID_20220919_195745</name>
+			<description><![CDATA[19 September 2022 at 19:57<br/>Latitude:51.79087<br/>Longitude:-3.435011]]></description>
+			<styleUrl>#MarkerStyleNoID</styleUrl>
+			<ExtendedData>
+				<Data name="Bat Type">
+					<value>NoID</value>
+				</Data>
+				<Data name="Recorder">
+					<value>Echo Meter Touch 2 Pro</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-3.435011,51.790867,248.956696</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>PIPPYG_20220919_195838</name>
+			<description><![CDATA[19 September 2022 at 19:58<br/>Latitude:51.79087<br/>Longitude:-3.435011]]></description>
+			<styleUrl>#MarkerStylePIPPYG</styleUrl>
+			<ExtendedData>
+				<Data name="Bat Type">
+					<value>PIPPYG</value>
+				</Data>
+				<Data name="Recorder">
+					<value>Echo Meter Touch 2 Pro</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-3.435011,51.790867,248.956696</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>PIPPYG_20220919_195933</name>
+			<description><![CDATA[19 September 2022 at 19:59<br/>Latitude:51.79087<br/>Longitude:-3.435011]]></description>
+			<styleUrl>#MarkerStylePIPPYG</styleUrl>
+			<ExtendedData>
+				<Data name="Bat Type">
+					<value>PIPPYG</value>
+				</Data>
+				<Data name="Recorder">
+					<value>Echo Meter Touch 2 Pro</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-3.435011,51.790867,248.956696</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>PIPPIP_20220919_200322</name>
+			<description><![CDATA[19 September 2022 at 20:03<br/>Latitude:51.79087<br/>Longitude:-3.435011]]></description>
+			<styleUrl>#MarkerStylePIPPIP</styleUrl>
+			<ExtendedData>
+				<Data name="Bat Type">
+					<value>PIPPIP</value>
+				</Data>
+				<Data name="Recorder">
+					<value>Echo Meter Touch 2 Pro</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-3.435011,51.790867,248.956696</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>PIPPIP_20220919_200508</name>
+			<description><![CDATA[19 September 2022 at 20:05<br/>Latitude:51.79087<br/>Longitude:-3.435011]]></description>
+			<styleUrl>#MarkerStylePIPPIP</styleUrl>
+			<ExtendedData>
+				<Data name="Bat Type">
+					<value>PIPPIP</value>
+				</Data>
+				<Data name="Recorder">
+					<value>Echo Meter Touch 2 Pro</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-3.435011,51.790867,248.956696</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>PIPPYG_20220919_200619</name>
+			<description><![CDATA[19 September 2022 at 20:06<br/>Latitude:51.79087<br/>Longitude:-3.435011]]></description>
+			<styleUrl>#MarkerStylePIPPYG</styleUrl>
+			<ExtendedData>
+				<Data name="Bat Type">
+					<value>PIPPYG</value>
+				</Data>
+				<Data name="Recorder">
+					<value>Echo Meter Touch 2 Pro</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-3.435011,51.790867,248.956696</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>MYOBRA_20220919_200802</name>
+			<description><![CDATA[19 September 2022 at 20:08<br/>Latitude:51.79087<br/>Longitude:-3.435011]]></description>
+			<styleUrl>#MarkerStyleMYOBRA</styleUrl>
+			<ExtendedData>
+				<Data name="Bat Type">
+					<value>MYOBRA</value>
+				</Data>
+				<Data name="Recorder">
+					<value>Echo Meter Touch 2 Pro</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-3.435011,51.790867,248.956696</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>PIPPIP_20220919_201127</name>
+			<description><![CDATA[19 September 2022 at 20:11<br/>Latitude:51.79087<br/>Longitude:-3.435011]]></description>
+			<styleUrl>#MarkerStylePIPPIP</styleUrl>
+			<ExtendedData>
+				<Data name="Bat Type">
+					<value>PIPPIP</value>
+				</Data>
+				<Data name="Recorder">
+					<value>Echo Meter Touch 2 Pro</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-3.435011,51.790867,248.956696</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>PIPPIP_20220919_201141</name>
+			<description><![CDATA[19 September 2022 at 20:11<br/>Latitude:51.79087<br/>Longitude:-3.435011]]></description>
+			<styleUrl>#MarkerStylePIPPIP</styleUrl>
+			<ExtendedData>
+				<Data name="Bat Type">
+					<value>PIPPIP</value>
+				</Data>
+				<Data name="Recorder">
+					<value>Echo Meter Touch 2 Pro</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-3.435011,51.790867,248.956696</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>PIPPIP_20220919_201144</name>
+			<description><![CDATA[19 September 2022 at 20:11<br/>Latitude:51.79087<br/>Longitude:-3.435011]]></description>
+			<styleUrl>#MarkerStylePIPPIP</styleUrl>
+			<ExtendedData>
+				<Data name="Bat Type">
+					<value>PIPPIP</value>
+				</Data>
+				<Data name="Recorder">
+					<value>Echo Meter Touch 2 Pro</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-3.435011,51.790867,248.956696</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>PIPPIP_20220919_201209</name>
+			<description><![CDATA[19 September 2022 at 20:12<br/>Latitude:51.79087<br/>Longitude:-3.435011]]></description>
+			<styleUrl>#MarkerStylePIPPIP</styleUrl>
+			<ExtendedData>
+				<Data name="Bat Type">
+					<value>PIPPIP</value>
+				</Data>
+				<Data name="Recorder">
+					<value>Echo Meter Touch 2 Pro</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-3.435011,51.790867,248.956696</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>PIPPIP_20220919_201408</name>
+			<description><![CDATA[19 September 2022 at 20:14<br/>Latitude:51.79087<br/>Longitude:-3.435011]]></description>
+			<styleUrl>#MarkerStylePIPPIP</styleUrl>
+			<ExtendedData>
+				<Data name="Bat Type">
+					<value>PIPPIP</value>
+				</Data>
+				<Data name="Recorder">
+					<value>Echo Meter Touch 2 Pro</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-3.435011,51.790867,248.956696</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>PIPPIP_20220919_201434</name>
+			<description><![CDATA[19 September 2022 at 20:14<br/>Latitude:51.79087<br/>Longitude:-3.435011]]></description>
+			<styleUrl>#MarkerStylePIPPIP</styleUrl>
+			<ExtendedData>
+				<Data name="Bat Type">
+					<value>PIPPIP</value>
+				</Data>
+				<Data name="Recorder">
+					<value>Echo Meter Touch 2 Pro</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-3.435011,51.790867,248.956696</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>PIPPIP_20220919_201453</name>
+			<description><![CDATA[19 September 2022 at 20:14<br/>Latitude:51.79087<br/>Longitude:-3.435011]]></description>
+			<styleUrl>#MarkerStylePIPPIP</styleUrl>
+			<ExtendedData>
+				<Data name="Bat Type">
+					<value>PIPPIP</value>
+				</Data>
+				<Data name="Recorder">
+					<value>Echo Meter Touch 2 Pro</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-3.435011,51.790867,248.956696</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>PIPPYG_20220919_201539</name>
+			<description><![CDATA[19 September 2022 at 20:15<br/>Latitude:51.79087<br/>Longitude:-3.435011]]></description>
+			<styleUrl>#MarkerStylePIPPYG</styleUrl>
+			<ExtendedData>
+				<Data name="Bat Type">
+					<value>PIPPYG</value>
+				</Data>
+				<Data name="Recorder">
+					<value>Echo Meter Touch 2 Pro</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-3.435011,51.790867,248.956696</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>PIPPYG_20220919_201623</name>
+			<description><![CDATA[19 September 2022 at 20:16<br/>Latitude:51.79087<br/>Longitude:-3.435011]]></description>
+			<styleUrl>#MarkerStylePIPPYG</styleUrl>
+			<ExtendedData>
+				<Data name="Bat Type">
+					<value>PIPPYG</value>
+				</Data>
+				<Data name="Recorder">
+					<value>Echo Meter Touch 2 Pro</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-3.435011,51.790867,248.956696</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>NoID_20220919_201702</name>
+			<description><![CDATA[19 September 2022 at 20:17<br/>Latitude:51.79087<br/>Longitude:-3.435011]]></description>
+			<styleUrl>#MarkerStyleNoID</styleUrl>
+			<ExtendedData>
+				<Data name="Bat Type">
+					<value>NoID</value>
+				</Data>
+				<Data name="Recorder">
+					<value>Echo Meter Touch 2 Pro</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-3.435011,51.790867,248.956696</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>RHIHIP_20220919_201744</name>
+			<description><![CDATA[19 September 2022 at 20:17<br/>Latitude:51.79087<br/>Longitude:-3.435011]]></description>
+			<styleUrl>#MarkerStyleRHIHIP</styleUrl>
+			<ExtendedData>
+				<Data name="Bat Type">
+					<value>RHIHIP</value>
+				</Data>
+				<Data name="Recorder">
+					<value>Echo Meter Touch 2 Pro</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-3.435011,51.790867,248.956696</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>MINSCH_20220919_201837</name>
+			<description><![CDATA[19 September 2022 at 20:18<br/>Latitude:51.79087<br/>Longitude:-3.435011]]></description>
+			<styleUrl>#MarkerStyleMINSCH</styleUrl>
+			<ExtendedData>
+				<Data name="Bat Type">
+					<value>MINSCH</value>
+				</Data>
+				<Data name="Recorder">
+					<value>Echo Meter Touch 2 Pro</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-3.435011,51.790867,248.956696</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>PIPPYG_20220919_201914</name>
+			<description><![CDATA[19 September 2022 at 20:19<br/>Latitude:51.79087<br/>Longitude:-3.435011]]></description>
+			<styleUrl>#MarkerStylePIPPYG</styleUrl>
+			<ExtendedData>
+				<Data name="Bat Type">
+					<value>PIPPYG</value>
+				</Data>
+				<Data name="Recorder">
+					<value>Echo Meter Touch 2 Pro</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-3.435011,51.790867,248.956696</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>PIPPIP_20220919_202201</name>
+			<description><![CDATA[19 September 2022 at 20:22<br/>Latitude:51.79087<br/>Longitude:-3.435011]]></description>
+			<styleUrl>#MarkerStylePIPPIP</styleUrl>
+			<ExtendedData>
+				<Data name="Bat Type">
+					<value>PIPPIP</value>
+				</Data>
+				<Data name="Recorder">
+					<value>Echo Meter Touch 2 Pro</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-3.435011,51.790867,248.956696</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>PIPPIP_20220919_202258</name>
+			<description><![CDATA[19 September 2022 at 20:22<br/>Latitude:51.79087<br/>Longitude:-3.435011]]></description>
+			<styleUrl>#MarkerStylePIPPIP</styleUrl>
+			<ExtendedData>
+				<Data name="Bat Type">
+					<value>PIPPIP</value>
+				</Data>
+				<Data name="Recorder">
+					<value>Echo Meter Touch 2 Pro</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-3.435011,51.790867,248.956696</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>NoID_20220919_202432</name>
+			<description><![CDATA[19 September 2022 at 20:24<br/>Latitude:51.79087<br/>Longitude:-3.435011]]></description>
+			<styleUrl>#MarkerStyleNoID</styleUrl>
+			<ExtendedData>
+				<Data name="Bat Type">
+					<value>NoID</value>
+				</Data>
+				<Data name="Recorder">
+					<value>Echo Meter Touch 2 Pro</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-3.435011,51.790867,248.956696</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>PIPPIP_20220919_202500</name>
+			<description><![CDATA[19 September 2022 at 20:25<br/>Latitude:51.79087<br/>Longitude:-3.435011]]></description>
+			<styleUrl>#MarkerStylePIPPIP</styleUrl>
+			<ExtendedData>
+				<Data name="Bat Type">
+					<value>PIPPIP</value>
+				</Data>
+				<Data name="Recorder">
+					<value>Echo Meter Touch 2 Pro</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-3.435011,51.790867,248.956696</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>PIPPYG_20220919_202644</name>
+			<description><![CDATA[19 September 2022 at 20:26<br/>Latitude:51.79087<br/>Longitude:-3.435011]]></description>
+			<styleUrl>#MarkerStylePIPPYG</styleUrl>
+			<ExtendedData>
+				<Data name="Bat Type">
+					<value>PIPPYG</value>
+				</Data>
+				<Data name="Recorder">
+					<value>Echo Meter Touch 2 Pro</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-3.435011,51.790867,248.956696</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>NYCNOC_20220919_203145</name>
+			<description><![CDATA[19 September 2022 at 20:31<br/>Latitude:51.79087<br/>Longitude:-3.435011]]></description>
+			<styleUrl>#MarkerStyleNYCNOC</styleUrl>
+			<ExtendedData>
+				<Data name="Bat Type">
+					<value>NYCNOC</value>
+				</Data>
+				<Data name="Recorder">
+					<value>Echo Meter Touch 2 Pro</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-3.435011,51.790867,248.956696</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>NoID_20220919_203409</name>
+			<description><![CDATA[19 September 2022 at 20:34<br/>Latitude:51.79087<br/>Longitude:-3.435011]]></description>
+			<styleUrl>#MarkerStyleNoID</styleUrl>
+			<ExtendedData>
+				<Data name="Bat Type">
+					<value>NoID</value>
+				</Data>
+				<Data name="Recorder">
+					<value>Echo Meter Touch 2 Pro</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-3.435011,51.790867,248.956696</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>TADTEN_20220919_203840</name>
+			<description><![CDATA[19 September 2022 at 20:38<br/>Latitude:51.79087<br/>Longitude:-3.435011]]></description>
+			<styleUrl>#MarkerStyleTADTEN</styleUrl>
+			<ExtendedData>
+				<Data name="Bat Type">
+					<value>TADTEN</value>
+				</Data>
+				<Data name="Recorder">
+					<value>Echo Meter Touch 2 Pro</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-3.435011,51.790867,248.956696</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>NoID_20220919_204015</name>
+			<description><![CDATA[19 September 2022 at 20:40<br/>Latitude:51.79087<br/>Longitude:-3.435011]]></description>
+			<styleUrl>#MarkerStyleNoID</styleUrl>
+			<ExtendedData>
+				<Data name="Bat Type">
+					<value>NoID</value>
+				</Data>
+				<Data name="Recorder">
+					<value>Echo Meter Touch 2 Pro</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-3.435011,51.790867,248.956696</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>PIPPYG_20220919_204228</name>
+			<description><![CDATA[19 September 2022 at 20:42<br/>Latitude:51.79087<br/>Longitude:-3.435011]]></description>
+			<styleUrl>#MarkerStylePIPPYG</styleUrl>
+			<ExtendedData>
+				<Data name="Bat Type">
+					<value>PIPPYG</value>
+				</Data>
+				<Data name="Recorder">
+					<value>Echo Meter Touch 2 Pro</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-3.435011,51.790867,248.956696</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>PIPPYG_20220919_204319</name>
+			<description><![CDATA[19 September 2022 at 20:43<br/>Latitude:51.79087<br/>Longitude:-3.435011]]></description>
+			<styleUrl>#MarkerStylePIPPYG</styleUrl>
+			<ExtendedData>
+				<Data name="Bat Type">
+					<value>PIPPYG</value>
+				</Data>
+				<Data name="Recorder">
+					<value>Echo Meter Touch 2 Pro</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-3.435011,51.790867,248.956696</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>PIPPYG_20220919_204429</name>
+			<description><![CDATA[19 September 2022 at 20:44<br/>Latitude:51.79087<br/>Longitude:-3.435011]]></description>
+			<styleUrl>#MarkerStylePIPPYG</styleUrl>
+			<ExtendedData>
+				<Data name="Bat Type">
+					<value>PIPPYG</value>
+				</Data>
+				<Data name="Recorder">
+					<value>Echo Meter Touch 2 Pro</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-3.435011,51.790867,248.956696</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>PIPPYG_20220919_204513</name>
+			<description><![CDATA[19 September 2022 at 20:45<br/>Latitude:51.79087<br/>Longitude:-3.435011]]></description>
+			<styleUrl>#MarkerStylePIPPYG</styleUrl>
+			<ExtendedData>
+				<Data name="Bat Type">
+					<value>PIPPYG</value>
+				</Data>
+				<Data name="Recorder">
+					<value>Echo Meter Touch 2 Pro</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-3.435011,51.790867,248.956696</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>PIPPYG_20220919_204555</name>
+			<description><![CDATA[19 September 2022 at 20:45<br/>Latitude:51.79087<br/>Longitude:-3.435011]]></description>
+			<styleUrl>#MarkerStylePIPPYG</styleUrl>
+			<ExtendedData>
+				<Data name="Bat Type">
+					<value>PIPPYG</value>
+				</Data>
+				<Data name="Recorder">
+					<value>Echo Meter Touch 2 Pro</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-3.435011,51.790867,248.956696</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>PIPPYG_20220919_204723</name>
+			<description><![CDATA[19 September 2022 at 20:47<br/>Latitude:51.79087<br/>Longitude:-3.435011]]></description>
+			<styleUrl>#MarkerStylePIPPYG</styleUrl>
+			<ExtendedData>
+				<Data name="Bat Type">
+					<value>PIPPYG</value>
+				</Data>
+				<Data name="Recorder">
+					<value>Echo Meter Touch 2 Pro</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-3.435011,51.790867,248.956696</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>PIPPYG_20220919_204814</name>
+			<description><![CDATA[19 September 2022 at 20:48<br/>Latitude:51.79087<br/>Longitude:-3.435011]]></description>
+			<styleUrl>#MarkerStylePIPPYG</styleUrl>
+			<ExtendedData>
+				<Data name="Bat Type">
+					<value>PIPPYG</value>
+				</Data>
+				<Data name="Recorder">
+					<value>Echo Meter Touch 2 Pro</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-3.435011,51.790867,248.956696</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>PIPPIP_20220919_204920</name>
+			<description><![CDATA[19 September 2022 at 20:49<br/>Latitude:51.79087<br/>Longitude:-3.435011]]></description>
+			<styleUrl>#MarkerStylePIPPIP</styleUrl>
+			<ExtendedData>
+				<Data name="Bat Type">
+					<value>PIPPIP</value>
+				</Data>
+				<Data name="Recorder">
+					<value>Echo Meter Touch 2 Pro</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-3.435011,51.790867,248.956696</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>PIPPIP_20220919_204935</name>
+			<description><![CDATA[19 September 2022 at 20:49<br/>Latitude:51.79087<br/>Longitude:-3.435011]]></description>
+			<styleUrl>#MarkerStylePIPPIP</styleUrl>
+			<ExtendedData>
+				<Data name="Bat Type">
+					<value>PIPPIP</value>
+				</Data>
+				<Data name="Recorder">
+					<value>Echo Meter Touch 2 Pro</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-3.435011,51.790867,248.956696</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>NoID_20220919_205121</name>
+			<description><![CDATA[19 September 2022 at 20:51<br/>Latitude:51.79087<br/>Longitude:-3.435011]]></description>
+			<styleUrl>#MarkerStyleNoID</styleUrl>
+			<ExtendedData>
+				<Data name="Bat Type">
+					<value>NoID</value>
+				</Data>
+				<Data name="Recorder">
+					<value>Echo Meter Touch 2 Pro</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-3.435011,51.790867,248.956696</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>PIPPYG_20220919_205245</name>
+			<description><![CDATA[19 September 2022 at 20:52<br/>Latitude:51.79087<br/>Longitude:-3.435011]]></description>
+			<styleUrl>#MarkerStylePIPPYG</styleUrl>
+			<ExtendedData>
+				<Data name="Bat Type">
+					<value>PIPPYG</value>
+				</Data>
+				<Data name="Recorder">
+					<value>Echo Meter Touch 2 Pro</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-3.435011,51.790867,248.956696</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>MINSCH_20220919_205357</name>
+			<description><![CDATA[19 September 2022 at 20:53<br/>Latitude:51.79087<br/>Longitude:-3.435011]]></description>
+			<styleUrl>#MarkerStyleMINSCH</styleUrl>
+			<ExtendedData>
+				<Data name="Bat Type">
+					<value>MINSCH</value>
+				</Data>
+				<Data name="Recorder">
+					<value>Echo Meter Touch 2 Pro</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-3.435011,51.790867,248.956696</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>PIPPYG_20220919_205443</name>
+			<description><![CDATA[19 September 2022 at 20:54<br/>Latitude:51.79087<br/>Longitude:-3.435011]]></description>
+			<styleUrl>#MarkerStylePIPPYG</styleUrl>
+			<ExtendedData>
+				<Data name="Bat Type">
+					<value>PIPPYG</value>
+				</Data>
+				<Data name="Recorder">
+					<value>Echo Meter Touch 2 Pro</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-3.435011,51.790867,248.956696</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>PIPPYG_20220919_205517</name>
+			<description><![CDATA[19 September 2022 at 20:55<br/>Latitude:51.79087<br/>Longitude:-3.435011]]></description>
+			<styleUrl>#MarkerStylePIPPYG</styleUrl>
+			<ExtendedData>
+				<Data name="Bat Type">
+					<value>PIPPYG</value>
+				</Data>
+				<Data name="Recorder">
+					<value>Echo Meter Touch 2 Pro</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-3.435011,51.790867,248.956696</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>NYCLAS_20220919_205532</name>
+			<description><![CDATA[19 September 2022 at 20:55<br/>Latitude:51.79087<br/>Longitude:-3.435011]]></description>
+			<styleUrl>#MarkerStyleNYCLAS</styleUrl>
+			<ExtendedData>
+				<Data name="Bat Type">
+					<value>NYCLAS</value>
+				</Data>
+				<Data name="Recorder">
+					<value>Echo Meter Touch 2 Pro</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-3.435011,51.790867,248.956696</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>PIPPYG_20220919_205542</name>
+			<description><![CDATA[19 September 2022 at 20:55<br/>Latitude:51.79087<br/>Longitude:-3.435011]]></description>
+			<styleUrl>#MarkerStylePIPPYG</styleUrl>
+			<ExtendedData>
+				<Data name="Bat Type">
+					<value>PIPPYG</value>
+				</Data>
+				<Data name="Recorder">
+					<value>Echo Meter Touch 2 Pro</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-3.435011,51.790867,248.956696</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>NYCLAS_20220919_205632</name>
+			<description><![CDATA[19 September 2022 at 20:56<br/>Latitude:51.79087<br/>Longitude:-3.435011]]></description>
+			<styleUrl>#MarkerStyleNYCLAS</styleUrl>
+			<ExtendedData>
+				<Data name="Bat Type">
+					<value>NYCLAS</value>
+				</Data>
+				<Data name="Recorder">
+					<value>Echo Meter Touch 2 Pro</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-3.435011,51.790867,248.956696</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>PIPPIP_20220919_205811</name>
+			<description><![CDATA[19 September 2022 at 20:58<br/>Latitude:51.79087<br/>Longitude:-3.435011]]></description>
+			<styleUrl>#MarkerStylePIPPIP</styleUrl>
+			<ExtendedData>
+				<Data name="Bat Type">
+					<value>PIPPIP</value>
+				</Data>
+				<Data name="Recorder">
+					<value>Echo Meter Touch 2 Pro</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-3.435011,51.790867,248.956696</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>PIPPYG_20220919_205832</name>
+			<description><![CDATA[19 September 2022 at 20:58<br/>Latitude:51.79087<br/>Longitude:-3.435011]]></description>
+			<styleUrl>#MarkerStylePIPPYG</styleUrl>
+			<ExtendedData>
+				<Data name="Bat Type">
+					<value>PIPPYG</value>
+				</Data>
+				<Data name="Recorder">
+					<value>Echo Meter Touch 2 Pro</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-3.435011,51.790867,248.956696</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>PIPPYG_20220919_210018</name>
+			<description><![CDATA[19 September 2022 at 21:00<br/>Latitude:51.79087<br/>Longitude:-3.435011]]></description>
+			<styleUrl>#MarkerStylePIPPYG</styleUrl>
+			<ExtendedData>
+				<Data name="Bat Type">
+					<value>PIPPYG</value>
+				</Data>
+				<Data name="Recorder">
+					<value>Echo Meter Touch 2 Pro</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-3.435011,51.790867,248.956696</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>PIPPIP_20220919_210159</name>
+			<description><![CDATA[19 September 2022 at 21:01<br/>Latitude:51.79087<br/>Longitude:-3.435011]]></description>
+			<styleUrl>#MarkerStylePIPPIP</styleUrl>
+			<ExtendedData>
+				<Data name="Bat Type">
+					<value>PIPPIP</value>
+				</Data>
+				<Data name="Recorder">
+					<value>Echo Meter Touch 2 Pro</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-3.435011,51.790867,248.956696</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>PIPPIP_20220919_210216</name>
+			<description><![CDATA[19 September 2022 at 21:02<br/>Latitude:51.79087<br/>Longitude:-3.435011]]></description>
+			<styleUrl>#MarkerStylePIPPIP</styleUrl>
+			<ExtendedData>
+				<Data name="Bat Type">
+					<value>PIPPIP</value>
+				</Data>
+				<Data name="Recorder">
+					<value>Echo Meter Touch 2 Pro</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-3.435011,51.790867,248.956696</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>PIPPIP_20220919_210236</name>
+			<description><![CDATA[19 September 2022 at 21:02<br/>Latitude:51.79087<br/>Longitude:-3.435011]]></description>
+			<styleUrl>#MarkerStylePIPPIP</styleUrl>
+			<ExtendedData>
+				<Data name="Bat Type">
+					<value>PIPPIP</value>
+				</Data>
+				<Data name="Recorder">
+					<value>Echo Meter Touch 2 Pro</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-3.435011,51.790867,248.956696</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>NoID_20220919_210259</name>
+			<description><![CDATA[19 September 2022 at 21:02<br/>Latitude:51.79087<br/>Longitude:-3.435011]]></description>
+			<styleUrl>#MarkerStyleNoID</styleUrl>
+			<ExtendedData>
+				<Data name="Bat Type">
+					<value>NoID</value>
+				</Data>
+				<Data name="Recorder">
+					<value>Echo Meter Touch 2 Pro</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-3.435011,51.790867,248.956696</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>PIPPIP_20220919_210311</name>
+			<description><![CDATA[19 September 2022 at 21:03<br/>Latitude:51.79087<br/>Longitude:-3.435011]]></description>
+			<styleUrl>#MarkerStylePIPPIP</styleUrl>
+			<ExtendedData>
+				<Data name="Bat Type">
+					<value>PIPPIP</value>
+				</Data>
+				<Data name="Recorder">
+					<value>Echo Meter Touch 2 Pro</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-3.435011,51.790867,248.956696</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#SessionStyle6</styleUrl>
+			<LineString>
+				<extrude>1</extrude>
+				<tessellate>1</tessellate>
+				<coordinates>-3.435522,51.791142,247.130157 -3.435160,51.790676,246.277374 -3.435034,51.790840,250.597321 -3.434805,51.791679,339.344879 -3.434811,51.791546,247.503693 -3.434839,51.791412,246.076508 -3.434877,51.791302,245.747772 -3.434968,51.790985,246.260101 -3.435081,51.790825,246.022202 -3.435000,51.790905,247.029373 -3.435017,51.790867,243.273041 -3.435011,51.790867,248.956696 </coordinates>
+			</LineString>
+		</Placemark>
+	</Document>
+</kml>
