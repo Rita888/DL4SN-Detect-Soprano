@@ -1,10 +1,13 @@
 # DL4SN-Detect-Soprano
 MSc CE Deep Learning Networks Repository
-# Report title goes here
 
 Name of author, link to github repo with project work in / link to Edge Impulse projects
 
 ## Introduction
+
+As an ecologist, I use a full-spectogram bat detector which has the capability of classifying the bat calls when undertaking bat surveys. The bat detecor is called Echo Meter Touch 2 Pro which attaches to iPad or iPhone, a free app is provided which then stores the bat calls data and it has an Auto ID which is classifies the bat species. The project idea is to understand 
+
+
 - an overview of what the project does
 - your inspiration for making the project 
 - examples that it is based on. 
@@ -12,7 +15,7 @@ Name of author, link to github repo with project work in / link to Edge Impulse 
 *Tip: probably ~200 words and images are good!*
 
 ## Research Question
-What is the problem you are trying to solve
+Does Edge Impulse Software allow to train small model using dataset to detect a Soprano pipistrelle bat call?
 
 *Tip: probably 1 or 2 sentences*
 
