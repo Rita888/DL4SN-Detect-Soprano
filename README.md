@@ -5,7 +5,9 @@ Name of author, link to github repo with project work in / link to Edge Impulse 
 
 ## Introduction
 
-As an ecologist, I use a full-spectogram bat detector which has the capability of classifying the bat calls when undertaking bat surveys. The bat detecor is called Echo Meter Touch 2 Pro which attaches to iPad or iPhone, a free app is provided which then stores the bat calls data and it has an Auto ID which is classifies the bat species. The project idea is to understand 
+As an ecologist, I use a full-spectogram bat detector which has the capability of classifying the bat calls when undertaking bat surveys. The bat detecor is called Echo Meter Touch 2
+Pro which attaches to iPad or iPhone, a free app is provided which then stores the bat calls data and it has an Auto ID which is classifies the bat species. The project idea is to 
+understand how the sound analyses are 
 
 
 - an overview of what the project does
