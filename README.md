@@ -6,9 +6,8 @@ https://studio.edgeimpulse.com/studio/203785
 
 ## Introduction
 
-As an ecologist, I use a full-spectogram bat detector which has the capability of classifying the bat calls when undertaking bat surveys. The bat detecor is called Echo Meter Touch 2
-Pro which attaches to iPad or iPhone, a free app is provided which then stores the bat calls data and it has an Auto ID which is classifies the bat species. The project idea is to 
-understand how the sound analyses are 
+My project’s idea was to understand how auto ID on Echo Meter Touch 2 Pro works and if I am able to train a model to identify only one of 18 UK species. As an ecologist, I undertake bat surveys from May to September following Bat Conservation Trust’s Guidelines. I use Echo Meter Touch 2 Pro for IOS which is a dongle that attaches to iPhone or iPad and an app starts to display a spectrogram of the surrounding noise. 
+Nocturnal bats employ echolocation, emitting high-frequency calls to navigate and visualize their environment. These ultrasonic calls, akin to sonar, are captured by ecologists to study bat behavior, revealing details about their surroundings in real time. This mechanism, functioning as an acoustic imaging system, aids in tasks such as locating food, maneuvering obstacles, and surviving perilous environments. Identifying bat species acoustically involves recognizing call patterns from sonograms, a process demanding substantial training and time. 
 
 <img width="151" alt="image" src="https://github.com/Rita888/DL4SN-Detect-Soprano/assets/93122551/487a5a95-1be7-486b-bae1-3df82ef7fae9">
 
