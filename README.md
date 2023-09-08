@@ -9,6 +9,7 @@ As an ecologist, I use a full-spectogram bat detector which has the capability o
 Pro which attaches to iPad or iPhone, a free app is provided which then stores the bat calls data and it has an Auto ID which is classifies the bat species. The project idea is to 
 understand how the sound analyses are 
 
+<img width="151" alt="image" src="https://github.com/Rita888/DL4SN-Detect-Soprano/assets/93122551/487a5a95-1be7-486b-bae1-3df82ef7fae9">
 
 - an overview of what the project does
 - your inspiration for making the project 
