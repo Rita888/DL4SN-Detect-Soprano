@@ -1,7 +1,8 @@
 # DL4SN-Detect-Soprano
 MSc CE Deep Learning Networks Repository
 
-Name of author, link to github repo with project work in / link to Edge Impulse projects
+
+https://studio.edgeimpulse.com/studio/203785
 
 ## Introduction
 
@@ -11,50 +12,43 @@ understand how the sound analyses are
 
 <img width="151" alt="image" src="https://github.com/Rita888/DL4SN-Detect-Soprano/assets/93122551/487a5a95-1be7-486b-bae1-3df82ef7fae9">
 
-- an overview of what the project does
-- your inspiration for making the project 
-- examples that it is based on. 
 
-*Tip: probably ~200 words and images are good!*
 
 ## Research Question
-Does Edge Impulse Software allow to train small model using dataset to detect a Soprano pipistrelle bat call?
 
-*Tip: probably 1 or 2 sentences*
+Is it possible to train a model to detect one bat species using Edge Impulse and Nano BLE? 
 
 ## Application Overview
-Thinking back to the various application diagrams you have seen through the module - how would you describe an overview of the building blocks of your project - how do they connect, what do the component parts include.
+Convolutional Neural Network
+Passive acoustic sensing has recently emerged as a valuable method for monitoring and assessing the impact of human activities on wildlife and biodiversity. In particular, it has proven to be quite effective in quantifying the echolocation calls of bats. In a study conducted by Mac Aodha et al. in 2018, they introduced an open-source pipeline based on Convolutional Neural Networks (CNNs) to identify various types of bat calls, including those during the search phase, ultrasonic calls, and full spectrum calls.
+To train their deep learning algorithms, the researchers collected ultrasonic audio data along road transects in Bulgaria and Romania as part of the iBats program. The CNN-based detector they designed was put to the test against different commercial systems and algorithms, using datasets recorded in various countries with different types of sensors.
+The results of these tests demonstrated that the CNN-based detector outperforms commercial systems, particularly when it comes to accurately identifying search-phase bat calls, as evidenced by its higher recall and precision rates.
 
-*Tip: probably ~200 words and a diagram is usually good to convey your design!*
+As I am working with audio files, I am aiming to use Mel-frequency cepstral coefficients (MFCCs), spectrograms and classifier. Different features within Edge Impulse were available and I would like to try different representations to identify which works best for the data.
 
 ## Data
-Describe what data sources you have used and any cleaning, wrangling or organising you have done. Including some examples of the data helps others understand what you have been working with.
+Data used in this study were the bat calls that were recorded during the bat survey. These were auto classified by using ML embedded within Wildlife Acoustics Products such as Echo 
+Meter Touch. 
 
-The data used were wav. files collected throughtout the bat surveys. Raw 
+<img width="208" alt="image" src="https://github.com/Rita888/DL4SN-Detect-Soprano/assets/93122551/f3e0cdaa-5610-4867-a3b2-3192bba83cfa">
+
 
 ## Model
-This is a Deep Learning project! What model architecture did you use? Did you try different ones? Why did you choose the ones you did?
-
-*Tip: probably ~200 words and a diagram is usually good to describe your model!*
+The Impulse design allowed Spectrogram to be trained as a processing block and then classifier to analyse the spectrograms. 
+<img width="306" alt="image" src="https://github.com/Rita888/DL4SN-Detect-Soprano/assets/93122551/9f6ae873-ba91-4469-b1ab-0a54477abbd3">
+<img width="300" alt="image" src="https://github.com/Rita888/DL4SN-Detect-Soprano/assets/93122551/aa1603ec-7816-4f84-9734-41354f70fb10">
 
 ## Experiments
-What experiments did you run to test your project? What parameters did you change? How did you measure performance? Did you write any scripts to evaluate performance? Did you use any tools to evaluate performance? Do you have graphs of results? 
-
-*Tip: probably ~300 words and graphs and tables are usually good to convey your results!*
+[
+](https://drive.google.com/drive/folders/14VS9gDBJejs9kDNSuPBaC1lrOkg_sRhg?usp=share_link)
 
 ## Results and Observations
-Synthesis the main results and observations you made from building the project. Did it work perfectly? Why not? What worked and what didn't? Why? What would you do next if you had more time?  
-
-*Tip: probably ~300 words and remember images and diagrams bring results to life!*
+<img width="143" alt="image" src="https://github.com/Rita888/DL4SN-Detect-Soprano/assets/93122551/27f55eb1-f925-416f-998e-055a110bf27b">
 
 ## Bibliography
+Mac Aodha, O., Gibb, R., Barlow, K.E., Browning, E., Firman, M., Freeman, R., Harder, B., Kinsey, L., Mead, G.R., Newson, S.E. and Pandourski, I., 2018. Bat detective—Deep learning tools for bat acoustic signal detection. PLoS computational biology, 14(3), p.e1005995.
+Mac Aodha, O., Martinez Balvanera, S., Damstra, E., Cooke, M., Eichinski, P., Browning, E., Barataud, M., Boughey, K., Coles, R., Giacomini, G. and Mac Swiney G, M.C., 2022. Towards a General Approach for Bat Echolocation Detection and Classification. bioRxiv, pp.2022-12.
 
-
-1. Last name, First initial. (Year published). Title. Edition. (Only include the edition if it is not the first edition) City published: Publisher, Page(s). http://google.com
-
-2. Last name, First initial. (Year published). Title. Edition. (Only include the edition if it is not the first edition) City published: Publisher, Page(s). http://google.com
-
-*Tip: we use [https://www.citethisforme.com](https://www.citethisforme.com) to make this task even easier.* 
 
 ----
 
